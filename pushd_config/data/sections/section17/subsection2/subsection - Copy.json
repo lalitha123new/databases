@@ -1,0 +1,31 @@
+{
+	"subsectionDesc" : 	[],
+	"exerciseTitle" : "",
+	"exerciseDesc" : ["You can take a brief survey to check out where you are in terms of the balance between your negative and positive emotions. <strong>Positivity Self-Test</strong><br>
+How have you felt over the last one day till now? Using the 0-4 scale below, indicate the greatest amount that you have experienced each of the following feelings since the last one day till now.<br>
+0= Not at all, 1= A little bit, 2= moderately, 3= Quite a bit, 4= extremely
+Since the last one day till now…
+"],
+	"feedback" : 	"",
+	"options"	:	["0","1","2","3","4","5"],
+	"questions" : ["The most AMUSED/ FUN-LOVING/ CHILDISH I felt?",
+"The most ANGRY/ IRRITATED/ ANNOYED I felt?",
+"The most ASHAMED/ HUMILIATED/ DISGRACED I felt?",
+"The most AWE/ WONDER/ AMAZEMENT I felt?",
+"The most CONTEMPTUOUS/ SCORNFUL/ DISDAINFUL (INTENSE DISLIKE) I felt? ",
+"The most DISGUST/ DISTASTE/ REVULSION I felt? ",
+"The most EMBARRASED/ SELF- CONSCIOUS/ BLUSHING I felt?",
+"The most GRATEFUL/ APPRECIATIVE/ THANKFUL I felt? ",
+"The most GUILTY/ REPENTANT (REGRETFUL)/ BLAME- WORTHY I felt? ",
+"The most HATE/ DISTRUST/ SUSPICION I felt? ",
+"The most HOPEFUL/ OPTIMISTIC/ ENCOURAGED I felt?" ,
+"The most INSPIRED/ UPLIFTED/ ELEVATED I felt? ",
+"The most INTERESTED/ ALERT/ CURIOUS I felt? ",
+"The most JOYFUL/ GLAD/ HAPPY I felt? ",
+"The most LOVING/ CLOSE/ AFFECTIONATE I felt?",
+"The most PROUD/ CONFIDENT/ SELF- ASSURED I felt?",
+"The most SAD/ DOWNHEARTED (LOW)/ UNHAPPY I felt?",
+"The most SCARED/ FEARFUL/ AFRAID I felt? ",
+"The most SERENE/ CONTENT/ PEACEFUL I felt?",
+"The most STRESSED/ NERVOUS/ OVER- WHELMED I felt?" ]
+}

@@ -1,0 +1,24 @@
+{
+	"quotes" : 	[
+					{
+						"quote" 	:	"Taking care of yourself is one of the hardest jobs- don't ever let anyone tell you otherwise. It is much easier to take care of others.",
+						"author"	:	"Charity Shumway"
+					},
+					{
+						"quote" 	:	"I have come to believe that caring for myself is not self-indulgence. Caring for myself is an act of survival.",
+						"author"	:	"Audre Lorde"
+					},
+					{
+						"quote" 	:	"You may be the only person left who believes in you, but it's enough. It takes just one star to pierce a universe of darkness. Never give up.",
+						"author"	:	"Richelle E. Goodrich"
+					}
+				],
+	"sectionDesc" 	: 	[
+							"A letter from us",
+							"Another letter from us"
+						],
+	"estimatedTime" : 	"20 minutes",
+	"noOfSittings" : "1",
+	"noOfExercises"	: "0",
+	"suggestions" 	: 	""
+}

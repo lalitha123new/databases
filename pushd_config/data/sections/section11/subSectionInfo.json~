@@ -1,0 +1,27 @@
+[
+	{
+		"subSectionId" : "1",
+		"subSectionName" : "Knowledge Point",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/11/subsections/1"
+	},
+	{
+		"subSectionId" : "2",
+		"subSectionName" : "Tool Box - 1",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/11/subsections/2"
+	},
+{
+		"subSectionId" : "3",
+		"subSectionName" : "Tool Box - 2",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/11/subsections/3"
+	},
+{
+		"subSectionId" : "4",
+		"subSectionName" : "Tool Box - 3",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/11/subsections/4"
+	},
+	{
+		"subSectionId" : "5",
+		"subSectionName" : "Practice Point",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/11/subsections/5"
+	}
+]

@@ -1,0 +1,12 @@
+[
+	{
+		"subSectionId" : "1",
+		"subSectionName" : "A letter from us to you: Video",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/2/subsections/1"
+	},
+	{
+		"subSectionId" : "2",
+		"subSectionName" : "Another letter from us to you:",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/2/subsections/2"
+	}
+]

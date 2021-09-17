@@ -1,0 +1,24 @@
+{	
+	"minfields"	:	0,
+	"p" :	[
+				"<strong>Emotional well-being </strong>",
+				"Well being is often seen as experiencing more of positive emotions and less of negative emotions. We discussed about cultivating positive emotions in the previous sections.",
+
+				"We need to remember that negative emotions also have their own value and utility. Negative emotions point toward what needs to be managed/corrected/dealt with. Moreover, expecting that one should 'never' feel negative emotions/be 'stress-free all the time' can in itself be stressful and unrealistic! ",
+
+				"Although there is continuing debate and research on what is an optimal balance between positive and negative emotions, the ratios wherein negative emotions dominate the positive emotions are likely to be problematic, in most contexts. ",
+
+				"Ratios wherein positive emotions outweigh the negative ones (e.g. 3: 1 and 5: 1)  have been suggested as beneficial by researchers in this area, though these should be taken tentatively rather than as any fixed magical figures. Moreover, the optimum ratio in one situation may not be the best/most ideal one in another situation and we normally tend to operate within a range rather than at fixed points."
+				
+				
+			],
+	"images"	:	[
+				],
+	"table"	:	{
+					"title" : 	"",
+					"rows"	:	"0",
+					"cols"	:	"0",
+					"thead"	:	[],
+					"tbody"	:	[]
+				}
+}

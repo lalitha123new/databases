@@ -1,0 +1,26 @@
+{
+	"exerciseNo"	:	"18",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"false",
+	"exerciseTitle" : "",
+	"minfields" : 1,
+	"exerciseDesc" : [],
+	"questions" : [
+					{
+						"quesNo" : "1",
+						"ques" : "I commit to schedule worry time at",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-5-7-1-1 form-control' value=''>"
+									]
+					},
+					{
+						"quesNo" : "2",
+						"ques" : "I commit to monitor my mind-states and shift my self-talk to wise mind state, whenever I can.",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[]
+					}
+				  ]
+}

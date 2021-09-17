@@ -1,0 +1,120 @@
+{
+	
+	"subSectionDesc":	[
+							""
+							],
+	"exerciseTitle" : "",
+	"exerciseDesc" 	: 	[
+                             
+            "<strong>Yet another way to cultivate positive emotions:</strong>",
+            "<stong></strong>",
+            "<strong>Develop a personal growth goal plan and work towards it:</strong>",
+            "Personal growth goals refer to any goal of putting efforts in changing or developing yourself as a person/in any of your personal qualities. All of us have a broad picture or idea of who we are as individuals. We are also aware of the different features/qualities that describe us as a person. ",
+            "Working on personal growth goals can, in itself, be a source of positive feelings because we see ourselves as agents of development and positive change for our own selves. It is also because we see ourselves as continuously growing through our own efforts as well as our life experiences.",
+            
+           
+            "Sometimes people may feel unhappy about some personal quality and hence may wish to change that quality. Sometimes people may NOT be unhappy about any particular personal quality <strong>BUT</strong> still may want to develop oneself as a person in some way or other that they think is valuable/ desirable.",
+            "Think of a quality/characteristic/habit or a pattern of behaviour or thinking that you currently MAY wish to change. Even if you are not doing anything about it, you are requested to still write down about such a wish. In case you have more than one such changes you desire; put the one that is most important to you. (e.g. 'I want to reduce my anger', 'I want to be more tolerant in interacting with my juniors')",
+			
+			
+				                    ],
+	"feedback" : 	[ "You can assess your status on two dimensions:<br><strong>Contemplation-</strong> How much you seem to think about your personal growth goal?  Please see your response to the first set of items. Which of the four statements you marked? What does it tell you about your preoccupation with this goal? <br><strong> Action: </strong> To what extent you have started working on your growth goal? For how many of the 12 items have you marked agree or strongly agree?This would give you an idea about the extent to which you are taking actions to move towards your personal growth goals.<br>If you find yourself to be high on contemplation (thinking about it): Check out if you are also acting on it. It helps to think about the change we wish to make. But only 'thinking' about it repeatedly over a long period can be a frustrating experience! .<br>If you find yourself to be rather low on the action dimension, clarify within yourself: Is this the change that I really want to work upon as a goal? If yes, what can I do to start taking small steps that move me further in terms of acting on this goal? <br>Start enjoying and appreciating the efforts you are making towards growing as a person- because it is actually a continuous process rather than an end-point you have to reach."
+					],
+	"options"	:	[	
+						"Strongly Disagree",
+						"Disagree",
+						"Can't say",
+						"Agree",
+						"Strongly Agree"
+					],
+	"questions" : 	[
+						{
+                            "questionNo"     	: "",
+                     	    "questionContent"   : "",
+                            "questions"     	: 
+                        			[
+                        				{
+	
+	"questionNo"		:	"1",
+											"questionContent"	:	"<strong>Which of the following statement is most correct for you currently? Mark <strong>only one </strong> statement that best describes you currently</strong>",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"2",
+											"questionContent"	:	"<strong>Now, please mark  all the following  items  about this change.  </strong></li><ol><br><br><li><strong>I am making some changes and exploring new ways to bring about <strong>this</strong> change.</strong?",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"3",
+											"questionContent"	:	"<strong>I am actively working on changing <strong>this</strong> in me.</strong>",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"4",
+											"questionContent"	:	"<strong>I was struggling with changing <strong>this</strong>  earlier, but now I have been able to change myself to a large extent.</strong>",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"5",
+											"questionContent"	:	"<strong>I have managed to follow certain strategies regularly in the last few months to maintain <strong>this</strong> change.</strong>",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"6",
+											"questionContent"	:	"<strong>I have been successful in bringing about <strong>this</strong>  change within me and I have maintained this for the last few months.</strong>",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"7",
+											"questionContent"	:	"<strong>I have made <strong>this</strong>  change and now it does not need much effort to maintain it.</strong>",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"8",
+											"questionContent"	:	"<strong>I have recently taken a few steps and am trying to continue</strong>",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"9",
+											"questionContent"	:	"<strong>I do not want to slip back to my old self so I am consistently working on it since the last few months.</strong>",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"10",
+											"questionContent"	:	"<strong>I am already doing something to bring about <strong>this</strong>  change within me.</strong>",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"11",
+											"questionContent"	:	"<strong>People talk about changing; I am actually doing something about it.</strong>",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"12",
+											"questionContent"	:	"<strong>I have started asking people/observing them to get some idea for making <strong>this</strong>  change.</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"13",
+											"questionContent"	:	"<strong>I am not just thinking about changing <strong>this</strong>  , I am already doing something about it.</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										}
+									]
+						}
+						
+					]
+	
+	}

@@ -1,0 +1,158 @@
+{
+	"subsectionDesc" : 	[],
+	"exerciseTitle" : "",
+	"exerciseDesc" : ["You can take a brief survey to check out where you are in terms of the balance between your negative and positive emotions. <br><br><strong>Positivity Self-Test</strong><br>How have you felt over the last one day till now?<strong> Please indicate the option that is applicable to you:</strong><br><br>"],
+	"feedback" : 	"",
+	"options"	:	["Not at all","A little bit","Moderately","Quite a bit","Extremely"],
+	"questions" : 	[{
+                            "questionNo"     	: "",
+                     	    "questionContent"   : "",
+                            "questions"     	: 
+                        			[
+                        				{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most AMUSED/ FUN-LOVING/ CHILDISH I felt?</strong>",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most ANGRY/ IRRITATED/ ANNOYED I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most ASHAMED/ HUMILIATED/ DISGRACED I felt?</strong>",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most AWE/ WONDER/ AMAZEMENT I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most CONTEMPTUOUS/ SCORNFUL/ DISDAINFUL (INTENSE DISLIKE) I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most DISGUST/ DISTASTE/ REVULSION I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most EMBARRASED/ SELF- CONSCIOUS/ BLUSHING I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most GRATEFUL/ APPRECIATIVE/ THANKFUL I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most GUILTY/ REPENTANT (REGRETFUL)/ BLAME- WORTHY I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most HATE/ DISTRUST/ SUSPICION I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most HOPEFUL/ OPTIMISTIC/ ENCOURAGED I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most INSPIRED/ UPLIFTED/ ELEVATED I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most INTERESTED/ ALERT/ CURIOUS I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most JOYFUL/ GLAD/ HAPPY I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most LOVING/ CLOSE/ AFFECTIONATE I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most PROUD/ CONFIDENT/ SELF- ASSURED I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most SAD/ DOWNHEARTED (LOW)/ UNHAPPY I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most SCARED/ FEARFUL/ AFRAID I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most SERENE/ CONTENT/ PEACEFUL I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+{
+	
+	"questionNo"		:	"",
+											"questionContent"	:	"<strong>The most STRESSED/ NERVOUS/ OVER- WHELMED I felt?</strong> ",
+											"answer"			:	"",
+											"explanation"		:	[]
+										},
+
+
+]
+}]
+}
+
+

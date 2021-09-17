@@ -1,0 +1,17 @@
+{	
+	"minfields"	:	0,
+	"p" :	[
+				"Normally, most of us experience a general sense of control in life and find that we are fairly able to manage day to day challenges and demands of our situation.",
+				"This general sense of mastery contributes to our overall experience of well-being.",
+				"However, sometimes, in the face of multiple major challenges or stressful life events, we experience a decrease in our sense of mastery. It may seem as though no aspect of our life is under our control and we feel stuck and helpless.",
+				" These are times when some of us may keep thinking constantly about a few major issues that are bothering us and feel more and more a loss of control."
+			],
+	"images"	:	[],
+	"table"	:	{
+					"title" : 	"",
+					"rows"	:	"0",
+					"cols"	:	"0",
+					"thead"	:	[],
+					"tbody"	:	[]
+				}
+}

@@ -1,0 +1,45 @@
+{
+	"exerciseNo"	:	"12",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"true",
+	"minfields"	:	1,
+	"p" : 	[
+				"Based on the tips provided, pleasewrite down your self-reward plan here for doing the activities that you have decided to do"
+			],
+	"images":	[],
+	"table" : 	{
+					"title" : 	"",
+					"rows"	:	"6",
+					"cols"	:	"2",
+					"thead"	:	[
+									"I will reward myself by",
+									"When will I reward myself ? I will give myself this reward WHEN/IF (please write the condition you set for rewarding yourself ( for example:  Giving myself a treat/something nice to eat IF I wake up  at least three days in this  week at 7.30 am)"
+								],
+					"tbody"	:	[
+									[
+										"Marking my efforts on a simple graph/chart and putting it up prominently on a table/on a wall/cupboard",
+										"<textarea rows='2' style='resize: none;' class='td-3-6-1-2 form-control'>"
+									],
+									[
+										"Writing a  happy note to myself in a diary",
+										"<textarea rows='2' style='resize: none;' class='td-3-6-2-2 form-control'>"
+									],
+									[
+										"Giving myself a treat/something nice to eat",
+										"<textarea rows='2' style='resize: none;' class='td-3-6-3-2 form-control'>"
+									],
+									[
+										"Spending some time doing something I like/want.<br><textarea class='td-3-6-4-1 form-control' style='resize: none;' placeholder='Please Specify Here ...' rows='2'>",
+										"<textarea rows='3' style='resize: none;' class='td-3-6-4-2 form-control'>"
+									],
+									[
+										"Buying something for myself <br><textarea placeholder='Please Specify Here ...' style='resize: none;' class='td-3-6-5-1 form-control' rows='2'>",
+										"<textarea rows='3' style='resize: none;' class='td-3-6-5-2 form-control'>"
+									],
+									[
+										"Any other way of rewarding myself.<br><textarea placeholder='Please Specify Here ...' style='resize: none;' class='td-3-6-6-1 form-control' rows='2'>",
+										"<textarea rows='3' style='resize: none;' class='td-3-6-6-2 form-control'>"
+									]
+								]
+				}
+}

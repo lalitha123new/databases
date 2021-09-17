@@ -1,0 +1,54 @@
+{
+	"subsectionDesc" : 	[	""	],
+	"exerciseNo"	:	"30",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"false",
+	"exerciseTitle" : "When to Step-up?<br><br>Please check which of the following statements are true for you.",
+	"exerciseDesc" : ["<strong>Note:</strong> We advise you to seek face to face consultation with a trained mental health professional if you notice any of the following while participating in this self-care program."],
+	"feedback" : 	"",
+	"options"	:	[],
+	"questions" : [
+					{
+						"questionNo" : "1",
+						"questionContent" : "Are you finding that your motivation level for engaging in any kind of activity is going down quite a bit?",
+						"answer" : "false",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "2",
+						"questionContent" : "Is the severity of your low mood increasing in the last few days/weeks after you registered for the self-care program?",
+						"answer" : "false",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "3",
+						"questionContent" : "Are thoughts about suicide frequently/strongly coming to your mind in the last few days/weeks?",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "4",
+						"questionContent" : "Would you say that you do not seem to be getting any benefit from the self-care program, despite sufficiently trying and finding that your mental health condition is worsening?",
+						"answer" : "false",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "5",
+						"questionContent" : "Do you find that your day-to-day functioning   is declining in the last few days/weeks even after you started this self-care program?",
+						"answer" : "false",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "6",
+						"questionContent" : "Do you find that you just cannot motivate yourself to go through this self-care program despite feeling depressed and knowing that it might help?",
+						"answer" : "false",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "7",
+						"questionContent" : "None of the above  are true for me.",
+						"answer" : "false",
+						"explanation" : []
+					}
+		  		]
+}

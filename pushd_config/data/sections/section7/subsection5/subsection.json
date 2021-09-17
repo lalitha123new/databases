@@ -1,0 +1,53 @@
+{
+	"exerciseNo"	:	"24",
+	"exerciseType"	:	"NM",
+	"exerciseGT"	:	"true",
+	"minfields"	:	2,
+	"exerciseTitle" : 	"Recording your application of self-soothing activities",
+	"minfields" : 2,
+	"exerciseDesc" 	: 	[],
+	"p"	:	["This table is in your workbook. Please use it for the next one week to observe  and record your use of self-soothing activity when your distress increases. You can generate a new table/form for use next time.<br><br><strong>Recording your application of self-soothing activities.<br><br></strong>"],
+	"images" :	[],
+	"table" : 	{
+					"title" : 	"",
+					"rows"	:	"4",
+					"cols"	:	"5",
+					"thead"	:	[
+									"<th class='col-md-2 text-center' style='vertical-align: top;border:1px solid #FFB74D;'><br>Date and time<br></th>",
+									"<th class='col-md-2 text-center' style='vertical-align: top;border:1px solid #FFB74D;'><br>Severity of initial distress <br>(indicate your rating on 0 to 10 scale)<br></th>",
+									"<th class='col-md-3 text-center' style='vertical-align: top;border:1px solid #FFB74D;'><br>Used a self-soothing activity <br>(name the activity)<br></th>",
+									"<th class='col-md-2 text-center' style='vertical-align: top;border:1px solid #FFB74D;'><br>Severity of distress - After using self-soothing <br>(indicate your rating on 0 to 10 scale)<br></th>",
+									"<th class='col-md-3 text-center' style='vertical-align: top;border:1px solid #FFB74D;'><br>Plan for the next time (based on your observation, plan what you might want to do next time )<br></th>"
+								],
+					"tbody"	:	[
+									[
+										"<input id='' placeholder='DD/MM/YY H:M' type='text' class='td-7-5-1-1 col-md-2 form-control' value=''>",
+										"<select id='' class='td-7-5-1-2 col-md-1 form-control'><option value='0'>0</option><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>",
+										"<input id='' type='text' class='td-7-5-1-3 col-md-3 form-control' value=''>",
+										"<select id='' class='td-7-5-1-4 col-md-1 form-control'><option value='0'>0</option><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>",
+										"<input id='' type='text' class='td-7-5-1-5 col-md-5 form-control' value=''>"
+									],
+									[
+										"<input id=''placeholder='DD/MM/YY H:M' type='text' class='td-7-5-2-1 col-md-2 form-control' value=''>",
+										"<select id='' class='td-7-5-2-2 col-md-1 form-control'><option value='0'>0</option><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>",
+										"<input id='' type='text' class='td-7-5-2-3 col-md-3 form-control' value=''>",
+										"<select id='' class='td-7-5-2-4 col-md-1 form-control'><option value='0'>0</option><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>",
+										"<input id='' type='text' class='td-7-5-2-5 col-md-5 form-control' value=''>"
+									],
+									[
+										"<input id='' placeholder='DD/MM/YY H:M' type='text' class='td-7-5-3-1 col-md-2 form-control' value=''>",
+										"<select id='' class='td-7-5-3-2 col-md-1 form-control'><option value='0'>0</option><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>",
+										"<input id='' type='text' class='td-7-5-3-3 col-md-3 form-control' value=''>",
+										"<select id='' class='td-7-5-3-4 col-md-1 form-control'><option value='0'>0</option><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>",
+										"<input id='' type='text' class='td-7-5-3-5 col-md-5 form-control' value=''>"
+									],
+									[
+										"<input id='' placeholder='DD/MM/YY H:M' type='text' class='td-7-5-4-1 col-md-2 form-control' value=''>",
+										"<select id='' class='td-7-5-4-2 col-md-1 form-control'><option value='0'>0</option><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>",
+										"<input id='' type='text' class='td-7-5-4-3 col-md-3 form-control' value=''>",
+										"<select id='' class='td-7-5-4-4 col-md-1 form-control'><option value='0'>0</option><option value='1'>1</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5</option><option value='6'>6</option><option value='7'>7</option><option value='8'>8</option><option value='9'>9</option><option value='10'>10</option></select>",
+										"<input id='' type='text' class='td-7-5-4-5 col-md-5 form-control' value=''>"
+									]
+								]
+				}
+}

@@ -1,0 +1,42 @@
+[
+    {
+		"sectionId" : "11",
+		"sectionName" : "Sleep Health and Hygiene",
+		"noOfSubSections" : "5"
+	},
+	{
+		"sectionId" : "12",
+		"sectionName" : "Relaxation through Visualization",
+		"noOfSubSections" : "1"
+	},
+	{
+		"sectionId" : "13",
+		"sectionName" : "Depression and Interpersonal Relations",
+		"noOfSubSections" : "3"
+	},
+	{
+		"sectionId" : "14",
+		"sectionName" : "Managing Grief",
+		"noOfSubSections" : "2"
+	},
+	{
+		"sectionId" : "15",
+		"sectionName" : "Dealing with Suicidal Thoughts",
+		"noOfSubSections" : "2"
+	},
+	{
+		"sectionId" : "16",
+		"sectionName" : "Maintaining Wellbeing: Part one",
+		"noOfSubSections" : "3"
+	},
+	{
+		"sectionId" : "17",
+		"sectionName" : "Maintaining Wellbeing: Part two",
+		"noOfSubSections" : "4"
+	},
+	{
+		"sectionId" : "18",
+		"sectionName" : "References and Useful External Links",
+		"noOfSubSections" : "1"
+	}
+]

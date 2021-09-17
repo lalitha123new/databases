@@ -1,0 +1,49 @@
+{
+	"exerciseNo"	:	"17",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"false",
+	"exerciseTitle" : "",
+	"minfields"	:	1,
+	"exerciseDesc" : [
+						"It is possible to practice and learn to shift from one mind-state to another.",
+						"Do you want to try it out now?"
+					 ],
+	"questions" : [
+					{
+						"quesNo" : "1",
+						"ques" : "Write one of your current worries here:",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<textarea rows='2' class='bl-5-6-1-1 form-control' style='resize: none;' value=''></textarea>"
+									]
+					},
+					{
+						"quesNo" : "2",
+						"ques" : "Write down how you might respond to this worry when you are in emotional mind-state:",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<textarea rows='2' class='bl-5-6-2-1 form-control' style='resize: none;' value=''></textarea>"
+									]
+					},
+					{
+						"quesNo" : "3",
+						"ques" : "Write down how you might respond to this worry when you are in rational mind-state:",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<textarea rows='2' class='bl-5-6-3-1 form-control' style='resize: none;' value=''></textarea>"
+									]
+					},
+					{
+						"quesNo" : "4",
+						"ques" : "Write down how you might respond to this worry when you are in wise mind-state:",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<textarea rows='2' class='bl-5-6-4-1 form-control' style='resize: none;' value=''></textarea>"
+									]
+					}
+				  ]
+}

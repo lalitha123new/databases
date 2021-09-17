@@ -1,0 +1,73 @@
+{
+	"sectionId" : "0",
+	"sectionName" : "Baseline Check Point",
+	"sectionDesc" : ["Help us identify the sections that may be personally relevant for you:",
+						"All of us may experience ups and downs in our moods but normally these are brief periods lasting for a few hours to a few days at the most.",
+						"Please answer the following questions keeping in mind any difficulties which you have noticed for more than a week. Your answers will help us assess the sections in the program that may be most personally relevant."
+					],
+	"exerciseNo"	:	"1",
+	"exerciseTitle" : "Check the boxes for statements which are true for you",
+	"exerciseDesc" : [],
+	"questions" : [
+					{
+						"questionNo" : "1",
+						"question" : "My activity-level is lower than usual. / I find that I am spending quite a bit of my time doing nothing.",
+						"prSectionId" : "3"
+					},
+					{
+						"questionNo" : "2",
+						"question" : "I have noticed that I am quite critical of myself / I keep passing critical comments at myself in my head.",
+						"prSectionId" : "6"
+					},
+					{
+						"questionNo" : "3",
+						"question" : "I am getting frequent negative thoughts about my situation/my life in general.",
+						"prSectionId" : "4"
+					},
+					{
+						"questionNo" : "4",
+						"question" : "I am not reaching out to others for support.",
+						"prSectionId" : "9"
+					},
+					{
+						"questionNo" : "5",
+						"question" : "I keep worrying and getting stressed.",
+						"prSectionId" : "5"
+					},
+					{
+						"questionNo" : "6",
+						"question" : "I feel that I have hardly any control over my life-situation.",
+						"prSectionId" : "8"
+					},
+					{
+						"questionNo" : "7",
+						"question" : "I feel tense/anxious and restless several times.",
+						"prSectionId" : "12"
+					},
+					{
+						"questionNo" : "8",
+						"question" : "My sleep is significantly disturbed.",
+						"prSectionId" : "11"
+					},
+					{
+						"questionNo" : "9",
+						"question" : "I occasionally get thoughts about living no more.",
+						"prSectionId" : "15"
+					},
+					{
+						"questionNo" : "10",
+						"question" : "I think I may drop this self-care program mid-way/may not start",
+						"prSectionId" : "2"
+					},
+					{
+						"questionNo" : "11",
+						"question" : "I have recently experienced a life event in which I lost someone/something.",
+						"prSectionId" : "14"
+					},
+					{
+						"questionNo" : "12",
+						"question" : "My relationship with someone close to me is quite strained.",
+						"prSectionId" : "13"
+					}
+					]
+}

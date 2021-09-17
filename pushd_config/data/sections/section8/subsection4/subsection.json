@@ -1,0 +1,43 @@
+{
+	"exerciseNo"	:	"25",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"true",
+	"exerciseTitle" : "Time for an exercise: ",
+	"minfields"	:	5,
+	"exerciseDesc" : [],
+	"questions" : [
+					{
+						"quesNo" : "1",
+						"ques" : "Now think of your life and put in all those things/situations/aspects that are bothering you and taking most of your attention/mind-space : <strong>Fill them in here ...</strong><br><br><strong>Your list A : </strong>",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-8-4-1-1 form-control' value=''>",
+										"<input type='text' class='bl-8-4-1-2 form-control' value=''>",
+										"<input type='text' class='bl-8-4-1-3 form-control' value=''>"
+										"<input type='text' class='bl-8-4-1-4 form-control' value=''>",
+										"<input type='text' class='bl-8-4-1-5 form-control' value=''>",
+									]
+					},
+					{
+						"quesNo" : "2",
+						"ques" : "Now think hard about the aspects of your life/issues/things that you are tending to ignore/pay less attention due to being preoccupied with other issues that you feel are stressing/overwhelming you.<br><br>Make a list of these aspects which contain some action points for you (like the list B of Rakesh)<br><br><strong>Your list B : </strong>",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-8-4-2-1 form-control' value=''>",
+										"<input type='text' class='bl-8-4-2-2 form-control' value=''>",
+										"<input type='text' class='bl-8-4-2-3 form-control' value=''>",
+										"<input type='text' class='bl-8-4-2-4 form-control' value=''>",
+										"<input type='text' class='bl-8-4-2-5 form-control' value=''>"
+									]
+					},
+					{
+						"quesNo" : "3",
+						"ques" : "Now visualize how much it might make you feel better and function better if you were to devote some time and energy to these controllable aspects of your life.",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[]
+					}
+				  ]
+}

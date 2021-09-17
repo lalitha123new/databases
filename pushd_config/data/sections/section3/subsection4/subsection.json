@@ -1,0 +1,28 @@
+{
+	"exerciseNo"	:	"11",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"true",
+	"exerciseTitle" : "Anticipate and prepare",
+	"minfields"	:	1,
+	"exerciseDesc" : [],
+	"questions" : [
+					{
+						"quesNo" : "1",
+						"ques" : "<strong>Are you likely to face some difficulties in implementing your plan? List them out:</strong>",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<textarea class='form-control'></textarea>"
+									]
+					},
+					{
+						"quesNo" : "2",
+						"ques" : "<strong>Now list out strategies that you can use to manage these difficulties</strong>",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<textarea class='form-control'></textarea>"
+									]
+					}
+				  ]
+}

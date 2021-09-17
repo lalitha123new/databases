@@ -1,0 +1,19 @@
+{	"minfields"	:	0,
+	"p" :	[
+				"So what did you discover ?",
+				"<div class='row'><div class='col-md-3'><img src='images/ss-5-5.png'   width='200px;' hspace='20' vspace='10' class='img-responsive'></div>",
+				"<div class='col-md-9'><br> When we are worrying, the emotional mind increases the intensity of emotions by dwelling on the negative aspects of the situation. It is like we are putting a stamp of validity on our fears and apprehensions. The negativity biases are stronger when the worrier is in emotional mind state. It is like sinking in the emotions.</div></div>",
+				"<div class='row'><div class='col-md-3'><img src='images/ss-5-5_2.png'  width='200px;' hspace='20' vspace='10' class='img-responsive'></div>",
+				"<div class='col-md-9'><br><br><br>The rational mind state uses a logical/rational approach, a matter-of-fact style and tends to deny the importance of emotions or of the experience of emotions.</div></div>",
+				"<div class='row'><div class='col-md-3'><img src='images/ss-5-5_3.png'  width='200px;' hspace='20' vspace='10' class='img-responsive'></div>",
+				"<div class='col-md-9'><br><br>On the other hand, the wise mind-state characteristics are:<br>1. Acknowledgement of emotions and emotional experiences rather than rejecting/denying emotions<br>2. View things  objectively and holistically, from different angles, while at the same time being compassionate and self-soothing in approach<br>3. Balancing between emotional mind and rational mind states, as necessary</div></div>"
+			],
+	"images"	:	[],
+	"table"	:	{
+					"title" : 	"",
+					"rows"	:	"0",
+					"cols"	:	"0",
+					"thead"	:	[],
+					"tbody"	:	[]
+				}
+}

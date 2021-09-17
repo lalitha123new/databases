@@ -1,0 +1,27 @@
+{
+	"quotes" : 	[
+					{
+						"quote" 	:	"Sometimes it's not enough to know what things mean; sometimes you have to know what things don't mean.",
+						"author"	:	"Bob Dylan"
+					},
+					{
+						"quote" 	:	"It is impossible to begin to learn that which one thinks one already knows.",
+						"author"	:	"Epictetus"
+					},
+					{
+						"quote" 	:	"What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+						"author"	:	"Ralph Waldo Emerson"
+					}
+				],
+	"sectionDesc" 	: 	[
+							"Discovery point-Quiz",
+							"Tool box",
+							"A window to the inner world of depression: Video",
+							"Practice-Point"
+							"Knowledge Point"
+						],
+	"estimatedTime" : 	"40 minutes",
+	"noOfSittings" : "2",
+	"noOfExercises"	: "2",
+	"suggestions" 	: 	""
+}

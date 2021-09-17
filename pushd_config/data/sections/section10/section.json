@@ -1,0 +1,18 @@
+{
+	"quotes" : 	[
+					{
+						"quote" 	:	"An obstacle is often a stepping stone",
+						"author"	:	"Prescott"
+					}
+				],
+	"sectionDesc" 	: 	[
+							"Knowledge Point",
+							"Discovery Point",
+							"Tool Box-1 Overcoming internal barriers to seeking professional help",
+							"Tool-Box-2 Feeling better prepared to seek professional help"
+						],
+	"estimatedTime" : 	"30 minutes",
+	"noOfSittings" : "1",
+	"noOfExercises"	: "1",
+	"suggestions" 	: 	""
+}

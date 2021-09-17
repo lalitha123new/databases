@@ -1,0 +1,77 @@
+{
+	"subsectionDesc" : 	[
+							
+						],
+	"exerciseTitle" : "",
+	"exerciseDesc" : 	[
+                            "<strong>Do you have any of the following mental blocks regarding reaching out to others for emotional support?</strong>",
+							"<strong> Try to substitute these statements with other more realistic statements. These alternatives may help you to overcome your mental block.</strong>",
+
+ "<br><strong>I cannot share my emotional issues and request for support because:</strong>"
+							"<br><strong> (Please check the mental blocks/barriers which you think you have)</strong >"
+						],
+	"feedback" : 	"<strong>Summary : </strong>Seeking support is not always easy, but identifying your mental blocks and using alternative and more realistic self-statements might motivate you to seek help more easily.",
+	"options"	:	[],
+	"questions" : [
+					{
+						"questionNo" : "1",
+						"questionContent" : "People will make fun of me.",
+						"answer" : "",
+						"explanation" : ["<font style='color: blue'>I should not assume things by myself without testing the reality.</font>"]
+					},
+					{
+						"questionNo" : "2",
+						"questionContent" : "Nobody wants to help me so I should not seek help.",
+						"answer" : "",
+						"explanation" : ["<font style='color: blue'>There are people who have been helpful to me in the past.</font>"]
+					},
+					{
+						"questionNo" : "3",
+						"questionContent" : "Others will think badly about me if I share my problems with them.",
+						"answer" : "",
+						"explanation" : ["<font style='color: blue'>Everybody has their share of problems. And, I can share with one or two persons who are trustworthy.</font>"]
+					},
+					{
+						"questionNo" : "4",
+						"questionContent" : "I know it will fail.",
+						"answer" : "",
+						"explanation" : ["<font style='color: blue'>It's ok to try and fail. There is a chance that sharing may provide me a new way of looking at the situation, a new way to handle the situation or at least some relief. Is it not worth taking the chance?</font>"]
+					},
+					{
+						"questionNo" : "5",
+						"questionContent" : "I know I cannot initiate talking on emotional matters.",
+						"answer" : "",
+						"explanation" : ["<font style='color: blue'>I can think through/rehearse how I may want to start this conversation, with whom and when. This may make things easier.</font>"]
+					},
+					{
+						"questionNo" : "6",
+						"questionContent" : "Nobody will understand my emotions.",
+						"answer" : "",
+						"explanation" : ["<font style='color: blue'>Nobody can exactly understand others' emotional experience. But some people do make a sincere effort and understand, to some extent. This might mean that I would not feel totally alone and not understood.</font>"]
+					},
+					{
+						"questionNo" : "7",
+						"questionContent" : "People will think I cannot handle my problems.",
+						"answer" : "",
+						"explanation" : ["<font style='color: blue'>I have been solving several of my problems for such a long time. If I put across my situation properly to the right person, he/she may not underestimate me. Most of all, I should not underestimate myself just because I am sharing my emotions/problems with someone.</font>"]
+					},
+					{
+						"questionNo" : "8",
+						"questionContent" : "I will lose my friends if they come to know about my emotional problems.",
+						"answer" : "",
+						"explanation" : ["<font style='color: blue'>Good friends are meant to help each other. I can/I have helped them in times of need too.</font>"]
+					},
+					{
+						"questionNo" : "9",
+						"questionContent" : "Others will think I am emotionally weak.",
+						"answer" : "",
+						"explanation" : ["<font style='color: blue'>Everyone has their strengths and weaknesses. Moreover, opening up to discuss a difficult issue is not necessarily a sign of weakness.</font>"]
+					},
+					{
+						"questionNo" : "10",
+						"questionContent" : "My good friends should know what I am feeling. I need not have to tell them.",
+						"answer" : "",
+						"explanation" : ["<font style='color: blue'>Yes, my good friends can guess what I am feeling. But, sometimes they may be preoccupied/distracted by something else. Moreover even in the circle of good friends, communication gaps can happen. I should not expect friends to mind-read me all the time.</font>"]
+					}
+		  		]
+}

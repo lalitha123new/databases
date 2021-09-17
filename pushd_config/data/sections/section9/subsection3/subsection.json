@@ -1,0 +1,67 @@
+{
+	"subsectionDesc" : 	[
+							
+						],
+	"exerciseNo"	:	"28",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"false",
+	"exerciseTitle" : 	"",
+	"exerciseDesc" : 	["<strong>It helps to think of/identify someone with who you can share your feelings, at least to some extent. </strong>",
+							"<strong> In addition, there is a wide range of social activities which may reduce your sense of isolation and improve your overall support system, even if you do not share very personal matters in these contexts.<br><br> </strong> ",
+" <strong> Please check the following list and select any social activity that you may be able to and want to engage in/carry out more often.</strong> "],
+	"feedback" : 	"Please remember that these are only a few examples to start your thinking process along these lines.",
+	"options"	:	[],
+	"questions" : [
+					{
+						"questionNo" : "1",
+						"questionContent" : "Gardening along with a friend/neighbor",
+						"answer" : "",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "2",
+						"questionContent" : "Playing a game with a friend 	",
+						"answer" : "",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "3",
+						"questionContent" : "Doing yoga/going for a walk/swimming with someone who shares that interest",
+						"answer" : "",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "4",
+						"questionContent" : "Playing with a pet animal",
+						"answer" : "",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "5",
+						"questionContent" : "Joining a hobby class and making new connections	",
+						"answer" : "",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "6",
+						"questionContent" : "Teaching a child in your neighborhood ",
+						"answer" : "",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "7",
+						"questionContent" : "Joining an NGO",
+						"answer" : "",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "8",
+						"questionContent" : "Anything else",
+						"answer" : "",
+						"explanation" : [
+											"Please Specify ...",
+											"<textarea id='bl-8' style='resize:none;' class='form-control' value=''></textarea>"
+										]
+					}
+		  		]
+}

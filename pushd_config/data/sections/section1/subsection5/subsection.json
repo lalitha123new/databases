@@ -1,0 +1,19 @@
+{	
+	"minfields"	:	0,
+	"p" : 	[
+				"You may not be experiencing all these symptoms or not to the same degree.",
+				"<img width='200px;' src='images/ss-1-5.png'>",
+				"All people with depression do not have exactly same set of symptoms. There are also differences in severity of symptoms. But, in general these symptoms can be grouped under four broad (somewhat overlapping) categories as shown here."
+			],
+	"images":	[
+					"images/ss-1-5_2_2.png"
+				],
+	"table" : 	{
+					"title" : 	"",
+					"rows"	:	"0",
+					"cols"	:	"0",
+					"thead"	:	[],
+					"tbody"	:	[]
+				},
+	"videos": ""
+}

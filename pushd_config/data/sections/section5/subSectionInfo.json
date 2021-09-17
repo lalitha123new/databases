@@ -1,0 +1,42 @@
+[
+	{
+		"subSectionId" : "1",
+		"subSectionName" : "Knowledge Point",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/5/subsections/1"
+	},
+	{
+		"subSectionId" : "2",
+		"subSectionName" : "Tool Box : Strategies to manage excessive worry",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/5/subsections/2"
+	},
+	{
+		"subSectionId" : "3",
+		"subSectionName" : "Demo-Point : Video",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/5/subsections/3"
+	},
+	{
+		"subSectionId" : "4",
+		"subSectionName" : "Practice Point - 1 : Exercises to identify different mind-states",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/5/subsections/4"
+	},
+	{
+		"subSectionId" : "5",
+		"subSectionName" : "Knowledge Point",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/5/subsections/5"
+	},
+	{
+		"subSectionId" : "6",
+		"subSectionName" : "Practice Point - 2 : Applying what you learnt",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/5/subsections/6"
+	},
+	{
+		"subSectionId" : "7",
+		"subSectionName" : "Commitment Point",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/5/subsections/7"
+	},
+	{
+		"subSectionId" : "8",
+		"subSectionName" : "Practice Point - 3 : Your diary for practice",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/5/subsections/8"
+	}
+]

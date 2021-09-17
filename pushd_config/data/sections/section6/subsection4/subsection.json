@@ -1,0 +1,34 @@
+{
+	"exerciseNo"	:	"21",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"true",
+	"minfields"	:	2,
+	"p" : 	[
+				"<strong>For practicing how to talk back gently to your inner critical voice</strong>"
+				"Write down the self-compassionate thoughts in response to the self-critical thoughts for the following examples"
+			],
+	"images":	[],
+	"table" : 	{
+					"title" : 	"",
+					"rows"	:	"3",
+					"cols"	:	"2",
+					"thead"	:	[
+									"Self-critical thought",
+									"Self-compassionate alternative self-talk"
+								],
+					"tbody"	:	[
+									[
+										"I could not talk properly to my boss. I am a weak and an  incapable person",
+										"<textarea rows='2' class='td-6-4-1-2 form-control'>"
+									],
+									[
+										"I did not live up to his expectations in the party.  I am not worthy of his affection. I hate myself.",
+										"<textarea rows='2' class='td-6-4-2-2 form-control'>"
+									],
+									[
+										"Write your own self-critical thought here<br><textarea class='td-6-4-3-1 form-control' placeholder='Please Specify Here ...' rows='2'>",
+										"<textarea rows='2' class='td-6-4-3-2 form-control'>"
+									]
+								]
+				}
+}

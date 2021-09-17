@@ -1,0 +1,27 @@
+[
+	{
+		"subSectionId" : "1",
+		"subSectionName" : "Discovery Point : Quiz",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/1/subsections/1/discovery"
+	},
+	{
+		"subSectionId" : "2",
+		"subSectionName" : "Tool Box",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/1/subsections/2/toolbox"
+	},
+	{
+		"subSectionId" : "3",
+		"subSectionName" : "A window to the inner world of depression: Video",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/1/subsections/3"
+	},
+	{
+		"subSectionId" : "4",
+		"subSectionName" : "Practice Point",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/1/subsections/4"
+	},
+	{
+		"subSectionId" : "5",
+		"subSectionName" : "Knowledge Point",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/1/subsections/5"
+	}
+]

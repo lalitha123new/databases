@@ -1,0 +1,133 @@
+{
+	"exerciseNo"	:	"3",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"false",
+	"exerciseTitle" : "Which symptoms Neena reported?",
+	"exerciseDesc" 	: 	[
+							"Here is a list of different kinds of difficulties/symptoms that people with different mental health problems may report. Identify and click ONLY those symptoms that Neena narrated."
+						],
+	"feedback" : "Good! You picked  out of 16 symptoms that came up in Neena's story.",
+	"questions" : [
+					{
+						"questionNo" : "1",
+						"questionContent" : "Continuous feelings of sadness",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "2",
+						"questionContent" : "Disturbed sleep",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "3",
+						"questionContent" : "Feeling intense anxiety",
+						"answer" : "false",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "4",
+						"questionContent" : "Not feeling hungry",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "5",
+						"questionContent" : "Experiencing rapid heartbeats",
+						"answer" : "false",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "6",
+						"questionContent" : "Tiredness/low energy",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "7",
+						"questionContent" : "Not having motivation to do anything",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "8",
+						"questionContent" : "Losing interest in activities that were pleasurable earlier",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "9",
+						"questionContent" : "Not finding life to be meaningful",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "10",
+						"questionContent" : "Thoughts that she is worthless",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "11",
+						"questionContent" : "Becoming slow in movements",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "12",
+						"questionContent" : "Preferring to be alone/isolated",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "13",
+						"questionContent" : "Feeling constantly angry",
+						"answer" : "false",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "14",
+						"questionContent" : "Not taking care of herself in terms of following daily routines",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "15",
+						"questionContent" : "Sense of  lack of hope",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "16",
+						"questionContent" : "Thoughts about dying",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "17",
+						"questionContent" : "Thoughts that life is a failure",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "18",
+						"questionContent" : "Crying",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "19",
+						"questionContent" : "Difficulties in concentration",
+						"answer" : "true",
+						"explanation" : []
+					},
+					{
+						"questionNo" : "20",
+						"questionContent" : "Fear of contracting a physical illness",
+						"answer" : "false",
+						"explanation" : []
+					},
+
+		  		]
+}

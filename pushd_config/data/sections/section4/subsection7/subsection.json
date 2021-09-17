@@ -1,0 +1,21 @@
+{
+	"exerciseNo"	:	"16",
+	"exerciseType"	:	"NM",
+	"exerciseGT"	:	"true",
+	"exerciseTitle" : "<strong>Applying what you learnt in your day-to-day life</strong>",
+	"minfields"	:	1,
+	"exerciseDesc" : [],
+	"questions" : [
+					{
+						"quesNo" : "1",
+						"ques" : "Watch the pattern over a week.<br><br>Write down at least one and maximum three statements you have recently used to help you to substitute your depressing thoughts with alternative thoughts.",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-4-7-1-1 form-control' value=''>",
+										"<input type='text' class='bl-4-7-1-2 form-control' value=''>",
+										"<input type='text' class='bl-4-7-1-3 form-control' value=''>"
+									]
+					}
+				  ]
+}

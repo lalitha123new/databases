@@ -1,0 +1,270 @@
+{
+	"exerciseNo"	:	"2",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"false",
+	"exerciseTitle" : 	"Beliefs influence actions",
+	"exerciseDesc" 	: 	[
+							"Take this quiz to uncover your beliefs about depression and test them against scientific understanding."
+						],
+	"feedback" : 	[
+						{
+							"correct"	: 	"true",
+							"feedback"	: 	"You are right! !"
+						},
+						{
+							"correct"	: 	"false",
+							"feedback"	: 	"SORRY ! Please Check Your Belief !"
+						}
+					],
+	"options"	:	[	
+						"Agree",
+						"Disagree",
+						"Not Sure"
+					],
+	"questions" : [
+					{
+						"questionNo" : "1",
+						"questionContent" : "Depression and sadness are one and the same.",
+						"answer" : "disagree",
+						"explanation" : [
+											{
+												"id" : "1",
+												"p" : "The words depression and sadness are sometimes used interchangeably in common speech. For instance, we might hear people say `I'm really depressed` when they mean to say `I'm very sad`."
+											},
+											{
+												"id" : "2",
+												"p" : "People tend to mistakenly associate the clinical condition of depression with the experience of sadness. We all experience sadness as a normal human emotion triggered by difficult, hurtful experiences or situations in life. Such sadness lifts when the situation changes or the emotional pain fades."
+											},
+											{
+												"id" : "3",
+												"p" : "Thus, to state broadly/simply,"
+											},
+											{
+												"id" : "4",
+												"p" : "1) Sadness is generally a passing emotion, while depression is likely to be continuous."
+											},
+											{
+												"id" : "5",
+												"p" : "2) Common sadness is usually about something, while sadness in depression colours everything, i.e.,It is pervasive."
+											},
+											{
+												"id" : "6",
+												"p" : "3) While sadness usually has a trigger, depression may or may not have an identifiable trigger and even when there is some cause, the triggering circumstance/s may not sufficiently account for the severity and intensity of depression."
+											},	
+											{
+												"id" : "7",
+												"p" : "4) Unlike normal sadness, depression is accompanied by other symptoms in varying severity such as decline in energy, loss of pleasure, and feelings of being worthless or guilty, etc."
+											},	
+											{
+												"id" : "8",
+												"p" : "On the whole, depression is diagnosed based on a cluster of symptoms, their duration and severity and not merely based on presence of sadness."
+											}
+										 ]
+					},
+					{
+						"questionNo" : "2",
+						"questionContent" : "People get depressed only because of their life situations or negative life events, so if someone has not experienced any negative life event recently, he/she cannot have depression.",
+						"answer" : "disagree",
+						"explanation" : [
+											{
+												"id" : "1",
+												"p" : "Because we tend to associate normal sadness with depression, we might think that people get depressed only because of their life situations or negative life events. However, clinical depression need not necessarily have a triggering event/situation."
+											}
+										 ]
+					},
+					{
+						"questionNo" : "3",
+						"questionContent" : "Anybody facing a major problem in life is bound to feel depressed. It is understandable and nothing can be done about it.",
+						"answer" : "disagree",
+						"explanation" : [
+											{
+												"id" : "1",
+												"p" : "While in some cases depression may not have any identifiable triggering circumstance, in other cases the depressed person as well as others are aware of a major problem in life (e.g. failure in an important exam, death of a dear person, traumatic illness, etc) that has contributed to the depression."
+											},
+											{
+												"id" : "2",
+												"p"	: "While it is rather natural that a person may feel intense sadness in such circumstances, it is important to seek appropriate professional help if the grief/sadness amounts to clinical depression."
+											}
+											{
+												"id" : "3",
+												"p" : "Of course, the distinction between 'normal' sadness and clinical depression may be blurred/tricky in the context of a traumatic circumstance, especially during the initial days after a painful event. It is nevertheless important to mobilize necessary support in either case, i.e., whether or not the distress amounts to depression."
+											},
+											{
+												"id" : "4",
+												"p" : "Depression may worsen the negative impact on health caused by the stressful situation and it may lower the person's ability to deal with the difficult situation."
+											},
+											{
+												"id" : "5",
+												"p" : "Hence depression has to be seen as an issue that needs to be addressed alongside the stressful/traumatic situation."
+											}
+										 ]
+					},
+					{
+						"questionNo" : "4",
+						"questionContent" : "People who are mentally strong cannot get depressed.",
+						"answer" : "disagree",
+						"explanation" : [
+											{
+												"id" : "1",
+												"p" : "Mental conditions such as depression can happen to anyone irrespective of age, gender, education, and occupation."
+											},
+											{
+												"id" : "2",
+												"p" : "Similarly, a person's intellectual or emotional strengths do not guarantee him/her against the likelihood of developing depression."
+											},
+											{
+												"id" : "3",
+												"p"	: "Mental health conditions are a result of multiple and complex interactions of biological and psychosocial factors and it is erroneous to single out any one factor as the cause of depression."
+											}
+										 ]
+					},
+					{
+						"questionNo" : "5",
+						"questionContent" : "If a person starts becoming irritable it is a sign that he/she is not depressed anymore.",
+						"answer" : "disagree",
+						"explanation" : [
+											{
+												"id" : "1",
+												"p" : "Depression does not present itself in the same way in all people. In some persons with depression, low mood is the prominent way it shows up, while in others, we may find irritability (more than usual) co-occurring with feeling low."
+											}
+										 ]
+					},
+					{
+						"questionNo" : "6",
+						"questionContent" : "Someone who is able to manage his duties at work and at home cannot be suffering from depression. ",
+						"answer" : "disagree",
+						"explanation" : [
+											{
+												"id" : "1",
+												"p" : "It is very much possible that individuals suffering from depression, especially mild levels of depression are able to carry on with their duties, although they may be finding it tiring/strenuous. The level of disturbance in one's day to day functioning increases with severity of depression."
+											}
+										 ]
+					},
+					{
+						"questionNo" : "7",
+						"questionContent" : "Both men and women can get depressed.",
+						"answer" : "agree",
+						"explanation" : [
+											{
+												"id" : "1",
+												"p" : "Depression can occur to anyone irrespective of one's gender, age, education and cultural background. It can happen to men, women, children, teens, and the elderly."
+											},
+											{
+												"id" : "2",
+												"p"	: "It has been observed that a higher proportion of women are diagnosed with depression as compared to men. This difference has been linked to multiple bio-psycho-social reasons. However, it would be completely wrong to say that being male insulates one from having depression."
+											}
+										 ]
+					},
+					{
+						"questionNo" : "8",
+						"questionContent" : "Depression simply means that one is lazy.",
+						"answer" : "disagree",
+						"explanation" : [
+											{
+												"id" : "1",
+												"p" : "Depression is not just about feeling low, but having emotional distress and other symptoms."
+											},
+											{
+												"id" : "2",
+												"p" : "Depression is a mental health condition that diminishes a person's energy and motivation for action. It may trigger the feelings of helplessness and pessimism."
+											},
+											{
+												"id" : "3",
+												"p" : "The decrease in the level of activity that accompanies should not be seen as laziness as though the person has chosen to be inactive. People do not choose to be depressed. It is a real mental health problem."
+											},
+											{
+												"id" : "4",
+												"p" : "There are a variety of effective intervention methods available to deal with depression. The nature and intensity of intervention varies from case to case depending on the nature and severity of depression as well as presence of other health problems."
+											}
+										 ]
+					},
+					{
+						"questionNo" : "9",
+						"questionContent" : "Medicines to treat depression make people drowsy and dependent.",
+						"answer" : "disagree",
+						"explanation" : [
+											{
+												"id" : "1",
+												"p" : "The antidepressant drugs prescribed for treatment of depression are not the same as 'sleeping' pills."
+											},
+											{
+												"id" : "2",
+												"p" : "Though some of these may have sleepiness as side effects, there are a variety of antidepressants which vary in their profile of side effects."
+											},
+											{
+												"id" : "3",
+												"p" : "When rightly prescribed and used regularly as prescribed, these medications can help in restoring one's normal mood. Depression, like many other mental health conditions involves chemical changes in the brain associated with the changes in mood."
+											},
+											{
+												"id" : "4",
+												"p" : "The anti-depressant medications can help in restoring the chemical balance and improve & stabilize the mood. Antidepressant medications are not addictive."
+											}
+										 ]
+					},
+					{
+						"questionNo" : "10",
+						"questionContent" : "Talking about depression or the depressive thoughts only worsens depression. It is sufficient if one has shared it with a close person. There is no point in going through the painful stuff again with a counselor or therapist.",
+						"answer" : "disagree",
+						"explanation" : [
+											{
+												"id" : "1",
+												"p" : "Discussing about one's depression and the underlying reasons may be in itself distressing or uncomfortable for some people. However, staying alone and brooding over the painful experience could be much more problematic."
+											},
+											{
+												"id" : "2",
+												"p" : "If the person has been trying to keep the mind away from thinking of any traumatic experience that triggered depression, talking about that experience may lead to a temporary increase in distress. But this will help in the long run by enabling the person to process the negative feelings rather than avoid or deny them altogether."
+											},
+											{
+												"id" : "3",
+												"p" : "Talking to a supportive friend or a caring family member can help in alleviating the distress and to come to terms with the painful experience."
+											},
+											{
+												"id" : "4",
+												"p" : "Support from a loved one is an important resource in recovery from various mental health conditions, including depression. But at times, it may need to be supplemented and complemented by the kind of professional intervention and support that a mental health professional is trained to provide."
+											}
+										 ]
+					},
+					{
+						"questionNo" : "11",
+						"questionContent" : "Psychological treatments for depression are just about counseling or giving advice and there is no evidence that it helps.",
+						"answer" : "disagree",
+						"explanation" : [
+											{
+												"id" : "1",
+												"p" : "Psychotherapy is not just about giving advice. It involves systematic treatment processes."
+											},
+											{
+												"id" : "2",
+												"p" : "There are different forms of psychotherapy interventions, all of which involve use of psychological principles and techniques and an active collaboration between the client and the therapist to move towards recovery."
+											},
+											{
+												"id" : "3",
+												"p" : "For a depressed person, psychotherapy can facilitate expression and validation of distress, better understanding of the underlying factors, and learning/enhancing of skills to deal with different aspects of depression and reduce the chance of depression occurring again."
+											},
+											{
+												"id" : "4",
+												"p" : "Medical management and psychological interventions may be used in combination, for effective management, depending on the need in a given case."
+											}
+										 ]
+					},
+					{
+						"questionNo" : "12",
+						"questionContent" : "Depressed persons can hardly do anything to help themselves.",
+						"answer" : "disagree",
+						"explanation" : [
+											{
+												"id" : "1",
+												"p" : "The very symptoms of depression (such as low energy levels, low motivation, and social withdrawal) can make it difficult for the person to make efforts to recover and to mobilize the additional support that may be needed."
+											},
+											{
+												"id" : "2",
+												"p" : "However, there are strategies and small steps that the depressed person can use to hasten recovery, especially when the severity of depressive symptoms is low. This process of helping oneself can be further strengthened with support from others, including professional support from a counselor/therapist, as needed."
+											},
+											{
+												"id" : "3",
+												"p" : "Besides, there is nothing to be ashamed of about being depressed. In fact, reaching out and seeking  help can be a sign of taking responsibility and signal  courage. It can help to mobilize internal as well as external support and resources that are needed to recover."
+											}
+										 ]
+					}
+				  ]
+}

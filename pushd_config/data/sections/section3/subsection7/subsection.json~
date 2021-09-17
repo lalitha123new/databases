@@ -1,0 +1,32 @@
+{
+	"exerciseNo"	:	"13",
+	"exerciseType"	:	"NM",
+	"exerciseGT"	:	"true",
+	"exerciseTitle" :	"",
+	"exerciseDesc"	:	[
+							"Check your planner every morning regarding activities you have planned to do and fill the day's column in the evening. Use this for the coming week.",
+							"You can generate a new monitor template for a new week in the workbook, by clicking on the 'Add' button in section 3.2."
+						],
+	"questions" 	: 	[],	
+	"tables" : 	[
+  					{
+  						"type"	:	"5",
+						"title" : 	"YOUR WEEKLY MONITOR",
+						"rows"	:	"1",
+						"cols"	:	"9",
+						"thead"	:	[
+										"Could do",
+										"Tried to do it",
+										"did not do",
+										"Monday",
+										"Tuesday",
+										"Wednesday",
+										"Thursday",
+										"Friday",
+										"Saturday",
+										"Sunday"
+									],
+						"options":  []	
+					}
+				]
+}

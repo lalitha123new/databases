@@ -1,0 +1,16 @@
+{	
+	"minfields"	:	0,
+	"p" :	[
+				"<strong>What are the common thinking errors (cognitive distortions)?</strong>",
+				
+				
+			],
+	"images"	:	["images/cognitive-4.2.png"],
+	"table"	:	{
+					"title" : 	"",
+					"rows"	:	"0",
+					"cols"	:	"0",
+					"thead"	:	[],
+					"tbody"	:	[]
+				}
+}

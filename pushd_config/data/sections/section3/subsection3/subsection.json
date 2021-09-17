@@ -1,0 +1,45 @@
+{
+	"exerciseNo"	:	"9",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"true",
+	"exerciseTitle" :	"",
+	"exerciseDesc"	:	[
+							"Here is a table with a list of activities based on how easy it is for you to do them and how often you are currently doing them!<br><br>Please select the various days in the next one week when you want to do them. You can choose to do an activity on multiple days ."
+						],
+	"questions" 	: 	[],	
+		"tables" : 	[
+  					{
+  						"type"	:	"3",
+						"title" : 	"<strong>YOUR POTENTIAL LIST</strong>",
+						"rows"	:	"1",
+						"cols"	:	"4",
+						"thead"	:	[
+							            "Activity",
+										"Monday",
+										"Tuesday",
+										"Wednesday",
+										"Thursday",
+										"Friday",
+										"Saturday",
+										"Sunday"
+									],
+						"options":  []
+					},
+					{
+  						"type"	:	"4",
+						"title" : 	"<strong>YOUR WEEKLY PLANNER</strong>",
+						"rows"	:	"1",
+						"cols"	:	"4",
+						"thead"	:	[
+										"Monday",
+										"Tuesday",
+										"Wednesday",
+										"Thursday",
+										"Friday",
+										"Saturday",
+										"Sunday"
+									],
+						"options":  []	
+					}
+				]
+}

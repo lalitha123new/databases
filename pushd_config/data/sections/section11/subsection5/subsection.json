@@ -1,0 +1,24 @@
+{
+	"exerciseTitle" : "Applying what you learnt in your day-to-day life.",
+	"minfields" : 3,
+	"exerciseDesc" : [
+                          ""
+               
+				
+                         ],
+	"questions" : [
+					{
+						"quesNo" : "1",
+						"ques" : "<strong>Based on these questions or other relevant concerns discussed in this section, you may now come up with five simple goals to practice for fostering your sleep hygiene. Write the goals in terms of actions that you can carry out every day. Write down your goals below. Plan out small ways in which you can reward yourself for successfully carrying out each of the goals in this checklist.</strong><br>",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-11-5-1-1 form-control'>",
+										"<input type='text' class='bl-11-5-1-2 form-control'>",
+										"<input type='text' class='bl-11-5-1-3 form-control'>",
+                                        "<input type='text' class='bl-11-5-1-4 form-control'>",
+										"<input type='text' class='bl-11-5-1-5 form-control'>"
+									]
+					}
+				  ]
+}

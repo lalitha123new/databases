@@ -1,0 +1,77 @@
+{
+	"subsectionDesc" : 	[],
+	"exerciseNo"	:	"20",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"false",
+	"exerciseTitle" : 	"",
+	"minfields"	: 	0,
+	"exerciseDesc" 	: 	[],
+	"feedback" : 	[],
+	"p"	:	["<strong>How compassionate are you towards yourself?</strong>",
+				"How would you react when I ask you this question? Probably you would find it funny/weird. You might say: Compassion towards myself??? What is this about?",
+				"Take a few moments and answer this brief questionnaire to discover how compassionate you are toward yourself.",
+      			"<strong> HOW I TYPICALLY ACT TOWARDS MYSELF IN DIFFICULT TIMES </strong>",
+				"Please read each statement carefully before answering. To the right of each item, indicate how often you behave in the stated manner, using the following scale"
+			],
+	"images" :	[],
+	"table" : 	{
+					"title" : 	"",
+					"rows"	:	"12",
+					"cols"	:	"2",
+					"thead"	:	[
+									"<th class='col-md-9 text-center' style='border: 2px solid #FFB74D;'><img width='700px;' src='images/always1.jpg'></th>",
+									"<th class='col-md-3 text-center' style='border: 2px solid #FFB74D;'></th>"									
+								],
+					"tbody"	:	[
+									[
+										"When I fail at something important to me I become consumed by feelings of inadequacy.",
+										"<select id='' class='td-1-2 col-md-3 form-control'><option value='0'>Select</option><option value='1'>1(Almost never)</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5(Almost always)</option></select>"
+									],
+									[
+										"I try to be understanding and patient towards those aspects of my personality I don't like.",
+										"<select id='' class='td-2-2 form-control'><option value='0'>Select</option><option value='1'>1(Almost never)</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5(Almost always)</option></select>"
+									],
+									[
+										"When something painful happens I try to take a balanced view of the situation.",
+										"<select id='' class='td-3-2 form-control'><option value='0'>Select</option><option value='1'>1(Almost never)</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5(Almost always)</option></select>"
+									],
+									[
+										"When I'm feeling down, I tend to feel like most other people are probably happier than I am.",
+										"<select id='' class='td-4-2 form-control'><option value='0'>Select</option><option value='1'>1(Almost never)</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5(Almost always)</option></select>"
+									],
+									[
+										"I try to see my failings as part of the human condition.",
+										"<select id='' class='td-5-2 form-control'><option value='0'>Select</option><option value='1'>1(Almost never)</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5(Almost always)</option></select>"
+									],
+									[
+										"When I am going through a very hard time, I give myself the caring and tenderness I need.",
+										"<select id='' class='td-6-2 form-control'><option value='0'>Select</option><option value='1'>1(Almost never)</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5(Almost always)</option></select>"
+									],
+									[
+										"When something upsets me I try to keep my emotions in balance.",
+										"<select id='' class='td-7-2 form-control'><option value='0'>Select</option><option value='1'>1(Almost never)</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5(Almost always)</option></select>"
+									],
+									[
+										"When I fail at something that's important to me, I tend to feel alone in my failure.",
+										"<select id='' class='td-8-2 form-control'><option value='0'>Select</option><option value='1'>1(Almost never)</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5(Almost always)</option></select>"
+									],
+									[
+										"When I am feeling down I tend to obsess and fixate on everything that's wrong.",
+										"<select id='' class='td-9-2 form-control'><option value='0'>Select</option><option value='1'>1(Almost never)</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5(Almost always)</option></select>"
+									],
+									[
+										"When I feel inadequate in some way, I try to remind myself that feelings of inadequacy are shared by most people.",
+										"<select id='' class='td-10-2 form-control'><option value='0'>Select</option><option value='1'>1(Almost never)</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5(Almost always)</option></select>"
+									],
+									[
+										"I'm disapproving and judgmental about my own flaws and inadequacies.",
+										"<select id='' class='td-11-2 form-control'><option value='0'>Select</option><option value='1'>1(Almost never)</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5(Almost always)</option></select>"
+									],
+									[
+										"I'm intolerant and impatient towards those aspects of my personality I don't like.",
+										"<select id='' class='td-12-2 form-control'><option value='0'>Select</option><option value='1'>1(Almost never)</option><option value='2'>2</option><option value='3'>3</option><option value='4'>4</option><option value='5'>5(Almost always)</option></select>"
+									],
+									
+								]
+				}
+}

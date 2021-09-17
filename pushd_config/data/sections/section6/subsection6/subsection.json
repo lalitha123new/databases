@@ -1,0 +1,23 @@
+{
+	"exerciseNo"	:	"22",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"true",
+	"exerciseTitle" : "",
+	"minfields"	:	1,
+	"exerciseDesc" 	: 	[
+							"Now think about any aspect of yourself about which you tend to be excessively self-critical/harsh/something about which you degrade/yourself repeatedly with your own internal critical comments.",
+							"Imagine a close and compassionate friend who knows you very well, who knows your strengths, your weaknesses, your failures, your successes, your attempts to deal with difficult life-situations... .A friend who is warm and who is wise, ... .A friend who truly wants the best for you, who is ready to help you correct yourself gently and affectionately.",
+							"Write a letter to yourself imagining that this friend is writing to you about the same thing that you are self-critical about.<br>",
+						],
+	"questions" : [
+					{
+						"quesNo" : "1",
+						"ques" : "<strong>Letter from your warm, compassionate and wise friend:</strong>",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<textarea rows='15' class='bl-6-6-1-1 form-control' style='resize: none;' placeholder='Dear ... ,' value=''></textarea>"
+									]
+					}
+				  ]
+}

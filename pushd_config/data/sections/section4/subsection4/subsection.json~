@@ -1,0 +1,155 @@
+{
+	"exerciseNo"	:	"14",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"false",
+	"exerciseTitle" : "Exercises to identify some of the common thinking errors (cognitive errors)",
+	"exerciseDesc" : [],
+	"questions" : [
+               {
+              "questionNo" : "1",
+			  "questionContent" : "Over a causal meeting at the canteen, your manager  mentions to you and your team mates       that the company is facing a tough time these days and that the management is concerned about overall cutting  of costs. You begin to feel tense and worried, unable to concentrate on the rest of the conversation and    	 eventually start feeling sad. Your thought on hearing these words before feeling sad and tense are:   'He means I will lose my job and they will be asking me to leave. This certainly is the end of the road for me. I am doomed now, I will never get a job'. You are likely to be using the cognitive error of:",
+			  "answerOption" : [
+			                      {
+			                      	"optionNo" :"A",
+			                      	"optionDesc" : "Labeling",
+			                      	"answer" : "false"
+			                      },
+			                      {
+			                      	"optionNo" :"B",
+			                      	"optionDesc" : "Disqualifying the positive",
+			                      	"answer" : "false"
+			                      },
+			                      {
+			                      	"optionNo" :"C",
+			                      	"optionDesc" : "Jumping to conclusion ",
+			                      	"answer" : "true"
+			                      },
+			                      {
+			                      	"optionNo" :"D",
+			                      	"optionDesc" : "Personalization",
+			                      	"answer" : "true"
+			                      },
+			                      {
+			                      	"optionNo" :"E",
+			                      	"optionDesc" : "Overgeneralization",
+			                      	"answer" : "false"
+			                      }
+
+			                   ],
+			   "explanation" : [
+                                    "In this example, what was not considered was the fact that the manager made these remarks to a general audience and did not refer to												any specific person or manner of cutting costs, but still you believed it was meant for you (personalization) and began to predict negative outcomes about your job and future (jumping to conclusion). He may have not meant this for anyone in specific and it may too premature, with too little information to conclude all of this."
+ 			                      ]
+			   },
+			   {
+              "questionNo" : "2",
+			  "questionContent" : "You have been asked to make a short speech at your friend's farewell party and the gathering consists 			                  of a few close friends. As you start getting up to speak, you notice your heart pounding, your face is getting flushed.			                     You feel tense and nervous and you tell yourself 'I am feeling so tense, I am sure the speech will go wrong and 			                   I will go blank and end up making a fool of myself.Everybody will think I am incapable of doing this small activity.'			                     You are likely to be using the distortions of ",
+			  "answerOption" : [
+			                      {
+			                      	"optionNo" :"A",
+			                      	"optionDesc" : "Emotional reasoning",
+			                      	"answer" : "true"
+			                      },
+			                      {
+			                      	"optionNo" :"B",
+			                      	"optionDesc" : "Disqualifying the positive",
+			                      	"answer" : "false"
+			                      },
+			                      {
+			                      	"optionNo" :"C",
+			                      	"optionDesc" : "Jumping to conclusion ",
+			                      	"answer" : "true"
+			                      },
+			                      {
+			                      	"optionNo" :"D",
+			                      	"optionDesc" : "Personalization",
+			                      	"answer" : "false"
+			                      },
+			                      {
+			                      	"optionNo" :"E",
+			                      	"optionDesc" : "Overgeneralization",
+			                      	"answer" : "false"
+			                      }
+
+			                   ],
+			   "explanation" : [
+                                 "Based on the feelings you experienced at the time of starting to speak, you concluded that things would go bad (emotional reasoning), and went on to make predictions about the outcomes of speech. In addition you also tried to guess what others might think about you as a result of this (mind reading)."
+ 			                      ]
+			   },
+			   {
+              "questionNo" : "3",
+			  "questionContent" : "You have postponed writing a report needed at your office. Every night when you try to get down to it, the whole project seems 	                		  so difficult that you end up doing something else instead.  Every time you think of starting, you put it off as			                you tell yourself, unless I have all the information I need I cannot start, I must have everything which is required before 			                I begin working on it.  I must be sure of what I am doing. As the day of submission deadline comes closer, you begin to feel			                 overwhelmed and guilty. Your thinking errors include:",
+			  "answerOption" : [
+			                      {
+			                      	"optionNo" :"A",
+			                      	"optionDesc" : "Jumping to conclusions (fortune teller error)",
+			                      	"answer" : "false"
+			                      },
+			                      {
+			                      	"optionNo" :"B",
+			                      	"optionDesc" : "All or none thinking",
+			                      	"answer" : "true"
+			                      },
+			                      {
+			                      	"optionNo" :"C",
+			                      	"optionDesc" : "Shoulds and musts",
+			                      	"answer" : "true"
+			                      },
+			                      {
+			                      	"optionNo" :"D",
+			                      	"optionDesc" : "Magnification",
+			                      	"answer" : "false"
+			                      },
+			                      {
+			                      	"optionNo" :"E",
+			                      	"optionDesc" : "Emotional reasoning",
+			                      	"answer" : "false"
+			                      }
+
+			                   ],
+			   "explanation" : [
+                                 "Setting an unrealistic target, even before starting the task is likely to result in a tendency to postpone the task, especially if one has set a condition (Must) of having 'everything' set before I start (should and musts and all or none thinking). In most situations we can gather information as we go along and it is possible to start/continue to work while things become clearer over time."
+ 			                      ]
+			   },
+			   {
+              "questionNo" : "4",
+			  "questionContent" : "Your job interview did not go as well as you expected, the offer did not 			                come through, as the company explained that they wanted somebody with a 			                different set of qualifications. Although you felt bad, you understand that			                the reasons were valid. However now that you have another offer, you start			                feeling anxious and tense, and wonder if you should t go for the interview.			                This is because you think 'I am sure the same thing that happened the last 			                time will happen again, there is no point in going there.' Your distortions 			                include:",
+
+			  "answerOption" : [
+			                      {
+			                      	"optionNo" :"A",
+			                      	"optionDesc" : "All or none thinking",
+			                      	"answer" : "false"
+			                      },
+			                      {
+			                      	"optionNo" :"B",
+			                      	"optionDesc" : "Mislabeling",
+			                      	"answer" : "false"
+			                      },
+			                      {
+			                      	"optionNo" :"C",
+			                      	"optionDesc" : "Overgeneralization",
+			                      	"answer" : "true"
+			                      },
+			                      {
+			                      	"optionNo" :"D",
+			                      	"optionDesc" : "Fortune telling",
+			                      	"answer" : "true"
+			                      },
+			                      {
+			                      	"optionNo" :"E",
+			                      	"optionDesc" : "Disqualifying the positive",
+			                      	"answer" : "false"
+			                      }
+
+			                   ],
+			   "explanation" : [
+                                	"Here you are basing the outcomes of all future interviews on a single negative event (not being offered a job in one interview due to mismatch between your qualification and the requirement)."
+                                ]
+			   }
+		
+
+              ]
+
+
+
+}

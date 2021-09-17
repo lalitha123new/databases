@@ -1,0 +1,52 @@
+[
+	{
+		"sectionId" : "1",
+		"sectionName" : " 1: Understanding Depression",
+		"noOfSubSections" : "5"
+	},
+	{
+		"sectionId" : "2",
+		"sectionName" : " 2: Enhance Self-care motivation",
+		"noOfSubSections" : "2"	
+	},
+	{
+		"sectionId" : "3",
+		"sectionName" : " 3: Activate: Baby steps to move ahead",
+		"noOfSubSections" : "7"
+	},
+	{
+		"sectionId" : "4",
+		"sectionName" : " 4: Dealing  with depressive thoughts",
+		"noOfSubSections" : "7"
+	},
+	{
+		"sectionId" : "5",
+		"sectionName" : " 5: Manage excessive worries",
+		"noOfSubSections" : "8"
+	},
+	{
+		"sectionId" : "6",
+		"sectionName" : " 6: Learn Self-Compassion",
+		"noOfSubSections" : "8"
+	},
+	{
+		"sectionId" : "7",
+		"sectionName" : " 7: Strengthen Self-Soothing skills",
+		"noOfSubSections" : "5"
+	},
+	{
+		"sectionId" : "8",
+		"sectionName" : " 8: Regaining a sense of mastery",
+		"noOfSubSections" : "5"
+	},
+	{
+		"sectionId" : "9",
+		"sectionName" : " 9: Harness the power of support",
+		"noOfSubSections" : "5"
+	},
+	{
+		"sectionId" : "10",
+		"sectionName" : " 10: Step Up: When you need to",
+		"noOfSubSections" : "4"
+	}
+]

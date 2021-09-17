@@ -1,0 +1,40 @@
+{
+	"exerciseNo"	:	"9",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"true",
+	"exerciseTitle" :	"",
+	"exerciseDesc"	:	[
+							"Based on the above inputs you have given, here is a potential mix of pleasurable, meaningful and mastery-oriented day-to-day activities that you may  want to include in your weekly plan. Pick at least one pleasurable and mastery-oriented activity for each of the days of the week. Select at least one activity per week which is meaningful/significant for you. The first three activities are our recommendations to you.<br>"
+						],
+	"questions" 	: 	[],	
+		"tables" : 	[
+  					{
+  						"type"	:	"3",
+						"title" : 	"<strong>YOUR POTENTIAL LIST</strong>",
+						"rows"	:	"1",
+						"cols"	:	"4",
+						"thead"	:	[
+										"Activity",
+										"Nature of activities<br>P: Pleasurable, <br>M: Meaningful,<br>MO: Mastery -oriented",
+																				"Select the day of the week</br>(You may choose multiple days in the week by checking the boxes)"
+									],
+						"options":  []
+					},
+					{
+  						"type"	:	"4",
+						"title" : 	"<strong>YOUR WEEKLY PLANNER</strong>",
+						"rows"	:	"1",
+						"cols"	:	"4",
+						"thead"	:	[
+										"Monday",
+										"Tuesday",
+										"Wednesday",
+										"Thursday",
+										"Friday",
+										"Saturday",
+										"Sunday"
+									],
+						"options":  []	
+					}
+				]
+}

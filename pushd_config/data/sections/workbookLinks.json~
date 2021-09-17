@@ -1,0 +1,131 @@
+[
+	{
+		"sId" 	: 	"2",
+		"links" :	[
+						{
+							"ssId" 	:	"2",
+							"str"	:	"section2_2"
+						}
+					]
+	},
+	{
+		"sId" 	: 	"3",
+		"links" :	[
+						{
+							"ssId" 	:	"2",
+							"str"	:	"practice3"
+						},
+						{
+							"ssId" 	:	"3",
+							"str"	:	"practice9"
+						},
+						{
+							"ssId" 	:	"4",
+							"str"	:	"check3"
+						},
+						{
+							"ssId" 	:	"6",
+							"str"	:	"knowledge"
+						},
+						{
+							"ssId" 	:	"7",
+							"str"	:	"practice9"
+						}
+					]
+	},
+	{
+		"sId" 	: 	"4",
+		"links" :	[
+						{
+							"ssId" 	:	"6",
+							"str"	:	"knowledge"
+						},
+						{
+							"ssId" 	:	"7",
+							"str"	:	"check3"
+						}
+					]
+	},
+	{
+		"sId" 	: 	"5",
+		"links" :	[
+						{
+							"ssId" 	:	"6",
+							"str"	:	"check3"
+						},
+						{
+							"ssId" 	:	"7",
+							"str"	:	"check3"
+						},
+						{
+							"ssId" 	:	"8",
+							"str"	:	"knowledge"
+						}
+					]
+	},
+	{
+		"sId" 	: 	"6",
+		"links" :	[
+						{
+							"ssId" 	:	"1",
+							"str"	:	"knowledge"
+						},
+						{
+							"ssId" 	:	"4",
+							"str"	:	"knowledge"
+						},
+						{
+							"ssId" 	:	"6",
+							"str"	:	"check3"
+						}
+					]
+	},
+	{
+		"sId" 	: 	"7",
+		"links" :	[
+						{
+							"ssId" 	:	"4",
+							"str"	:	"check3"
+						},
+						{
+							"ssId" 	:	"5",
+							"str"	:	"knowledge"
+						}
+					]
+	},
+	{
+		"sId" 	: 	"8",
+		"links" :	[
+						{
+							"ssId" 	:	"4",
+							"str"	:	"check3"
+						},
+						{
+							"ssId" 	:	"5",
+							"str"	:	"check3"
+						}
+					]
+	},
+	{
+		"sId" 	: 	"9",
+		"links" :	[
+						{
+							"ssId" 	:	"3",
+							"str"	:	"practice1"
+						},
+						{
+							"ssId" 	:	"4",
+							"str"	:	"check3"
+						}
+					]
+	},
+	{
+		"sId" 	: 	"10",
+		"links" :	[
+						{
+							"ssId" 	:	"2",
+							"str"	:	"practice1"
+						}
+					]
+	}
+]

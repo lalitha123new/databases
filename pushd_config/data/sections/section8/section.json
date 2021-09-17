@@ -1,0 +1,19 @@
+{
+	"quotes" : 	[
+					{
+						"quote" 	:	"Do not let what you cannot do interfere with what you can do",
+						"author"	:	"John Wooden"
+					}
+				],
+	"sectionDesc" 	: 	[
+							"Knowledge Point:Sense of mastery and well being",
+							"Knowledge Point",
+							"Demo Point: Regaining a sense of mastery",
+							"Practice Point: Regaining a sense of mastery",
+							"Commitment Point"
+						],
+	"estimatedTime" : 	"60 minutes",
+	"noOfSittings" : "3",
+	"noOfExercises"	: "2",
+	"suggestions" 	: 	""
+}

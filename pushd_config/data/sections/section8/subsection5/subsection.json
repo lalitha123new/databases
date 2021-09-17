@@ -1,0 +1,49 @@
+{
+	"exerciseNo"	:	"26",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"true",
+	"exerciseTitle" : "",
+	"minfields" : 3,
+	"exerciseDesc" : [],
+	
+	"questions" : [
+					{
+						"quesNo" : "1",
+						"ques" : "From your list B, note down some of these things that you can start off within the next one-two weeks",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-8-5-1-1 form-control' value=''>",
+										"<input type='text' class='bl-8-5-1-2 form-control' value=''>",
+										"<input type='text' class='bl-8-5-1-3 form-control' value=''>"
+									]
+					},
+					{
+						"quesNo" : "2",
+						"ques" : "Also, note down a few of the other things (from your List B)   that you can start doing   in about a month's time",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-8-5-2-1 form-control' value=''>",
+										"<input type='text' class='bl-8-5-2-2 form-control' value=''>",
+										"<input type='text' class='bl-8-5-2-3 form-control' value=''>",
+									]
+					},
+					{
+						"quesNo" : "3",
+						"ques" : "Make a realistic plan and start implementing the same!<br><br>Your planning notes here:",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-8-5-3-1 form-control' value=''>",
+									]
+					},
+					{
+						"quesNo" : "4",
+						"ques" : "<strong>Expected outcome:</strong>  You may begin to feel less overwhelmed and experience a higher sense of mastery. ",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[]
+					}
+				  ]
+}

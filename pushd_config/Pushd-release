@@ -1,0 +1,27 @@
+Syntax for creating keystore file:
+
+keytool -genkey -v -keystore <keystoreName>.keystore -alias <Keystore AliasName> -keyalg <Key algorithm> -keysize <Key size> -validity <Key Validity in Days>
+
+http://stackoverflow.com/questions/26449512/how-to-create-signed-apk-file-using-cordova-command-line-interface
+
+nilay@nilay:~/Desktop/iiit project/mobile/new/mtest$ keytool -genkey -v -keystore app-key.keystore -alias app-key -keyalg RSA -keysize 2048 -validity 10000
+
+Enter keystore password:pushd123
+Re-enter new password:pushd123
+
+What is your first name and last name? :  linto thomas
+What is the name of your organizational unit? :  healthelife
+What is the name of your organization? :  healthelife
+What is the name of your City or Locality? :  bangalore
+What is the name of your State or Province? :  karnataka
+What is the two-letter country code for this unit? :  IN
+
+
+
+nilay@nilay:~/Desktop/iiit project/mobile/new/mtest$ cordova build android --release -- --keystore=app-key.keystore --storePassword=pushd123 --alias=app-key --password=pushd123
+
+referencess:
+
+https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#signing-an-app
+https://www.youtube.com/watch?v=1u5mA9J5FTg
+

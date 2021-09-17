@@ -1,0 +1,93 @@
+{
+	"subSectionDesc":	[
+							"Here are three examples of worrying thoughts a person might have. Each worry is followed by three different kinds of self-talk.",
+							"Identify whether it is emotional, rational or wise mind state and click on that.This exercise is to help you become skilled at identifying the three different mind-states."
+						],
+	"exerciseNo"	:	"16",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"false",
+	"exerciseTitle" : "THREE MIND-STATES EXERCISE:",
+	"exerciseDesc" 	: 	[],
+	"options"	:	[	
+						"<strong>Emotional</strong>",
+						"<strong>Rational</strong>",
+						"<strong>Wise</strong>"
+					],
+	"questions" : 	[
+						{
+                            "questionNo"     	: "1",
+                     	    "questionContent"   : "Worrier: I do not know how I am going to manage all these new responsibilities.",
+                            "questions"     	: 
+                        			[
+                        				{
+											"questionNo"		:	"1",
+											"questionContent"	:	"It is unnecessary to imagine such scenarios. We have a backup plan, a safety net. We also have two hard working staff.",
+											"answer"			:	"<strong>Rational</strong>",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"2",
+											"questionContent"	:	"It is going to be too much work. If there is one mistake, things would start going wrong and the whole project may collapse and fall flat. It will be a disaster.",
+											"answer"			:	"<strong>Emotional</strong>",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"3",
+											"questionContent"	:	"It is a new project and hence it is natural to feel stressed. Perhaps most people would feel this way in this situation. Some mistakes can happen at the beginning but these may not have major consequences.  I have two very hard working staff and a back-up plan. There is a good chance that we will be able to manage the whole thing.",
+											"answer"			:	"<strong>Wise</strong>",
+											"explanation"		:	[]
+										}
+									]
+						},
+						{
+                            "questionNo"     	: "2",
+                     	    "questionContent"   : "Worrier: He said that I am no good as a parent and that I am setting a bad example for my child.",
+                            "questions"     	: 
+                        			[
+                        				{
+											"questionNo"		:	"1",
+											"questionContent"	:	"I feel so terrible about it. I must be a very bad and incapable mother. I myself get such self-doubts and now he too said something similar.",
+											"answer"			:	"<strong>Emotional</strong>",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"2",
+											"questionContent"	:	"The fact is that I have been trying hard to spend time with my child, play, teach and gently correct his mistakes. No parent can be perfect. I need not take in his remark and upset myself.Yes, it hurt a lot when I heard such a remark from him. I wish he was more objective in his judgment and not labeled me as a bad mother, just because of a small mistake.<br>Let me keep doing what I am doing well. May be I can discuss this with him when both of us are in a calmer state.",
+											"answer"			:	"<strong>Wise</strong>",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"3",
+											"questionContent"	:	"I do not need to bother myself with what he says as long as I know I am doing/trying to do the right thing in terms of parenting.",
+											"answer"			:	"<strong>Rational</strong>",
+											"explanation"		:	[]
+										}
+									]
+						},
+						{
+                            "questionNo"     	: "3",
+                     	    "questionContent"   : "Worrier: They ignored me completely and continued talking. I feel so bad.",
+                            "questions"     	: 
+                        			[
+                        				{
+											"questionNo"		:	"1",
+											"questionContent"	:	"Ya... It feels as though I am stupid, a person who is not valued/counted. It is terrible.",
+											"answer"			:	"<strong>Emotional</strong>",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"2",
+											"questionContent"	:	"It is actually nothing to feel bad about. It is a rather trivial event. Also, they were too preoccupied finishing their urgent talk. It is nothing to do with me.",
+											"answer"			:	"<strong>Rational</strong>",
+											"explanation"		:	[]
+										},
+										{
+											"questionNo"		:	"3",
+											"questionContent"	:	"It does hurt and I feel sad. It is natural to expect some basic courtesy. But they seemed preoccupied at that moment. It is unlikely to be related to how I am valued as a person by them. Also, In the long run, this event is hardly going to matter much, though I am feeling troubled right now.",
+											"answer"			:	"<strong>Wise</strong>",
+											"explanation"		:	[]
+										}
+									]
+						}
+				  ]
+}

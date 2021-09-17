@@ -1,0 +1,57 @@
+{
+	"exerciseNo"	:	"29",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"true",
+	"exerciseTitle" :     "",
+	"minfields" : 1,
+	"exerciseDesc" : 	["<strong>Fill in the blanks to make your personalized plan of decreasing your social withdrawal and opening up the chances of seeking and receiving support.</strong>"],
+	"questions" : [
+					{
+						"quesNo" : "1",
+						"ques" : "One person with whom I can talk on a general topic when I am feeling low and need to distract myself",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-9-4-1-1 form-control' value=''>"
+									]
+					},
+					{
+						"quesNo" : "2",
+						"ques" : "One social activity that I can try to engage in, that may help me boost my mood.",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-9-4-2-1 form-control' value=''>"
+									]
+					},
+					{
+						"quesNo" : "3",
+						"ques" : "One person with whom I can try to  discuss my issues.",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-9-4-3-1 form-control' value=''>"
+									]
+					},
+					{
+						"quesNo" : "4",
+						"ques" : "One person that I can connect to, when I am feeling very disturbed.",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-9-4-4-1 form-control' value=''>"
+									]
+					},
+					{
+						"quesNo" : "5",
+						"ques" : "The social activities that I can try to engage in a little more often (refer tool box for ideas)",
+						"answer" : "",
+						"explanation" : [],
+						"blanks" : 	[
+										"<input type='text' class='bl-9-4-5-1 form-control' value=''>",
+										"<input type='text' class='bl-9-4-5-2 form-control optional' value=''>",
+										"<input type='text' class='bl-9-4-5-3 form-control optional' value=''>",
+									]
+					}
+				  ]
+}

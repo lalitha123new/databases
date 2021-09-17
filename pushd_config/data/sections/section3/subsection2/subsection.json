@@ -1,0 +1,161 @@
+[
+	{	
+		"exerciseNo"	:	"4",
+		"exerciseType"	:	"M",
+		"exerciseGT"	:	"true",
+		"exerciseTitle" : 	"",
+		"minfields"	:	3,
+		"exerciseDesc" 	: 	[
+								"You need to make a list of at least 5-6 activities by choosing activities from 3 different categories. ",
+								"Try to choose at least 1 activity from each category.",
+
+"<strong>Note:</strong>",
+								"<li>Remember the activities that you list could be small day-to-day activities and not necessarily something major.</li>",
+								"<li>If some activities that come to your mind seem to fit into more than one category- that is Ok! </li>",
+								"<li>Please LIST activities which are NOT HARMFUL FOR HEALTH (e.g. do not list drinking alcohol/smoking cigarette!).</li>",
+								"<strong>Category -1 Pleasurable activities: </strong>",
+								"<li>Think of a time when you have not felt depressed .Think of a few activities that you have found pleasurable/enjoyable during such times (when not depressed).To give you some examples, someone's list may have items such as reading a comic, listening to music, playing a game or painting. Now, you are a different person and your list of pleasurable activities may be very different!</li>",
+								"<strong>Category -2 Meaningful activities:</strong>",
+								"<li>Think of a time when you were not depressed. Think of a few activities that you have found meaningful or important or valuable-these activities may or may not be pleasurable/enjoyable while you are doing them but you consider them to be of value/significance. These could also be activities that you think would be meaningful/of significance for you but you have not yet tried doing them.</li>",
+								"<li>To give you a few examples, someone else might include 'giving half an hour time to teach a child in the neighborhood', doing a small chore/running an errand for someone at home and giving them some relief, spending time in praying or going for a walk as meaningful/valuable activities. Now you, being a different person, your list may be completely different.</li>",
+								"<strong>Category 3-Mastery-oriented activities:</strong>",		
+								"<li>Now, think hard and come up with a few  activities which require some effort but you are not currently doing them, since the time you have been feeling depressed.</li>",
+								"<li>These may be small tasks that we generally take for granted but may be a bit difficult to perform when we are depressed.</li>",
+								"<li>These may be small tasks but can give you a sense of day-to-day accomplishment or mastery and help you to fight back the depressed state that you find yourself in.</li>",
+								"<li>To give you a few examples, Neena listed the following as mastery/effort-oriented day-to-day activities when she was trying to deal with depression: waking up at least by 7.30 am, taking bath on a daily basis, tidying up her cupboard and table, washing her daily-wear clothes, answering the mails and buying groceries.</li>",
+								"<li>Some of these mastery-oriented activities may be same as meaningful/significant activities while some others may not be considered significant/of value but these help us in moving forward in our daily plan. Think of effortful activities that can be done every day/a few times a week or at least on once a week basis.</li>"	,
+								"<li>So, now that you have thought of some activities in different categories, please go ahead and list them. Remember to try and make a list  that has  activities   of various kinds ( pleasurable, meaningful and mastery-oriented).</li>"	],
+		"questions" 	: 	[
+								{
+									"questionNo" : "1",
+									"questionContent" : "<strong>List of activities that are generally pleasurable to me:</strong>",
+									"answer" : "",
+									"explanation" : []
+								}
+						  	],
+	  	"tables" : 	[
+	  					{
+	  						"type"	:	"2",
+  							"title" : 	"",
+  							"rows"	:	"1",
+  							"cols"	:	"3",
+  							"thead"	:	[
+  											"Activity",
+  											"Nature",
+  											"How frequently I am currently doing this",
+  											"How easy it is  to add it to my day/increase its frequency?"
+  										],
+  							"options":  [
+  											"Daily",
+  											"A few times a week",
+  											"Once a week",
+  											"Less than once a week"
+  										]
+  						}
+					],
+	  	"tables2" : 	[
+	  					{
+	  						"type"	:	"2",
+  							"title" : 	"",
+  							"rows"	:	"1",
+  							"cols"	:	"3",
+  							"thead"	:	[
+  											"Activity",
+  											"Nature",
+  											"How frequently I am currently doing this",
+  											"How easy it is  to add it to my day/increase its frequency?"
+  										],
+  							"options":  [
+  											"Daily",
+  											"A few times a week",
+  											"Once a week",
+  											"Less than once a week"
+  										]
+  						}
+					]
+
+	},
+	{
+		"exerciseNo"	:	"6",
+		"exerciseType"	:	"M",
+		"exerciseGT"	:	"true",
+		"exerciseTitle" : 	"",
+		"exerciseDesc" 	: 	[			
+								"Now, again - Think of a time when you were not depressed.",
+								"List at least five activities that you have found meaningful or important or valuable-these activities may or may not be pleasurable/enjoyable while you are doing them but you consider them to be <strong>of value/significance.</strong>",
+								"Remember the activities that you list could be small day-to-day activities and not necessarily something major.",
+								"These could also be activities that you think would be meaningful/of significance for you but you have not yet tried doing them. ",
+								"To give you a few examples, someone else might include 'giving half an hour time to teach a child in the neighborhood', doing a small chore/running an errand for someone at home and giving them some relief, spending time in praying or going for a walk as meaningful/valuable activities. Now you, being a different person, your list may be completely different.",
+								"<br><img src='images/ss-3-2_1.png'></img>"
+							],
+		"questions" 	: 	[
+								{
+									"questionNo" : "1",
+									"questionContent" : "<strong>List of activities that I consider to be meaningful/valuable/important for me:</strong>",
+									"answer" : "",
+									"explanation" : []
+								}
+						  	],	
+  		"tables" : 	[
+  						{
+	  						"type"	:	"2",
+							"title" : 	"",
+							"rows"	:	"1",
+							"cols"	:	"3",
+							"thead"	:	[
+											"Meaningful/Valuable/fulfilling/significant activities",
+											"How frequently I am currently doing this",
+											"How easy it is  to add it to my day/increase its frequency?"
+										],
+							"options":  [
+											"Daily",
+											"A few times a week",
+											"Once a week",
+											"Less than once a week"
+										]
+						}
+					]	
+
+	},
+	{
+		"exerciseNo"	:	"8",
+		"exerciseType"	:	"M",
+		"exerciseGT"	:	"true",
+		"exerciseTitle" : 	"",
+		"exerciseDesc" 	: 	[
+								"Now, think hard and make a list of 5-6 <strong>activities which require some effort</strong> but you are not currently doing them, since the time you have been feeling depressed.",
+								"These may be small tasks that we generally take for granted but may be a bit difficult to perform when we are depressed. ",
+								"These may be small tasks but can give you a sense of day-to-day accomplishment or mastery and help you to fight back the depressed state that you find yourself in. ",
+								"To give you a few examples, Neena listed the following as mastery/effort-oriented day-to-day activities when she was trying to deal with depression: waking up  at least by 7.30 am, taking bath on a daily basis, tidying up her cupboard and table, washing her daily-wear clothes, answering the mails and buying groceries.",
+								"Some of these mastery-oriented activities may be same as meaningful/significant activities while some others may not be considered significant/of value but these help us in moving forward in our daily plan.",
+								"Think of effortful activities that can be done every day/a few times a week or at least on once a week basis."
+							],
+		"questions" 	: 	[
+								{
+									"questionNo" : "1",
+									"questionContent" : "<strong>List of activities that I consider to be mastery-oriented/effortful for me: </strong>",
+									"answer" : "",
+									"explanation" : []
+								}
+						  	],	
+  		"tables" : 	[
+  						{
+	  						"type"	:	"2",
+							"title" : 	"",
+							"rows"	:	"1",
+							"cols"	:	"3",
+							"thead"	:	[
+											"Meaningful/Valuable/fulfilling/significant activities",
+											"How frequently I am currently doing this",
+											"How easy it is  to add it to my day/increase its frequency?"
+										],
+							"options":  [
+											"Daily",
+											"A few times a week",
+											"Once a week",
+											"Less than once a week"
+										]
+						}
+					]
+	}
+]

@@ -1,0 +1,46 @@
+{
+	"exerciseNo"	:	"19",
+	"exerciseType"	:	"NM",
+	"exerciseGT"	:	"true",
+	"minfields"     :     1,
+	"exerciseTitle" : 	"Your Diary for practice: ",
+	"minfields"     :     1,
+	"exerciseDesc" 	: 	[
+							"Being wiser in dealing with worries",
+							"This form is available in the workbook. Use it over the next one week to record your excessive worry and practice dealing with the same. You can generate a new table for another week."
+						],
+	"p"	:	[],
+	"images" :	[],
+	"table" : 	{
+					"title" : 	"",
+					"rows"	:	"4",
+					"cols"	:	"3",
+					"thead"	:	[
+									"<th class='col-md-4 text-center'>My worry <br>(I caught myself worrying like this)</th>",
+									"<th class='col-md-4 text-center'>Which was the dominant mind state during this worry? <br>(Emotional/rational/wise)</th>",
+									"<th class='col-md-4 text-center'>What would/can I tell myself about this worry when I shift to wise mind-state?</th>"
+								],
+					"tbody"	:	[
+									[
+										"<br><input id='' type='text' class='td-5-8-1-1 col-md-4 form-control' value=''>",
+										"<br><select id='' class='td-5-8-1-2 col-md-3 form-control'><option value='0'>Select</option><option value='Emotional'>Emotional</option><option value='Rational'>Rational</option><option value='Wise'>Wise</option></select>"
+										"<br><input id='' type='text' class='td-5-8-1-3 col-md-5 form-control' value=''>",
+									],
+									[
+										"<br><input id='' type='text' class='td-5-8-2-1 col-md-4 form-control' value=''>",
+										"<br><select id='' class='td-5-8-2-2 col-md-3 form-control'><option value='0'>Select</option><option value='Emotional'>Emotional</option><option value='Rational'>Rational</option><option value='Wise'>Wise</option></select>"
+										"<br><input id='' type='text' class='td-5-8-2-3 col-md-5 form-control' value=''>",
+									],
+									[
+										"<br><input id='' type='text' class='td-5-8-3-1 col-md-4 form-control' value=''>",
+										"<br><select id='' class='td-5-8-3-2 col-md-3 form-control'><option value='0'>Select</option><option value='Emotional'>Emotional</option><option value='Rational'>Rational</option><option value='Wise'>Wise</option></select>"
+										"<br><input id='' type='text' class='td-5-8-3-3 col-md-5 form-control' value=''>",
+									],
+									[
+										"<br><input id='' type='text' class='td-5-8-4-1 col-md-4 form-control' value=''>",
+										"<br><select id='' class='td-5-8-4-2 col-md-3 form-control'><option value='0'>Select</option><option value='Emotional'>Emotional</option><option value='Rational'>Rational</option><option value='Wise'>Wise</option></select>"
+										"<br><input id='' type='text' class='td-5-8-4-3 col-md-5 form-control' value=''>",
+									]
+								]
+				}
+}

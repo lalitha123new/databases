@@ -1,0 +1,33 @@
+{	
+	"minfields"	:	0,
+	"p" :	[
+				"<strong>Over dependency: </strong>",
+				" While we need to feel comfortable about reaching out and seeking support, we need to ensure that we do develop healthy ways to soothe and comfort ourselves, without excessively depending on our support system for every small experience of stress. (link to section on self-soothing)<br>",
+				"<strong> Unrealistic expectations/misinterpretations: </strong><br>",
+				"When we feel disappointed by our support system, it is good to stop and ask ourselves if we started with unrealistic expectations.",
+				"It may be possible that we are misunderstanding as to why we did not get the support we were looking for. <br>",
+				"<strong> Excessive/inappropriate disclosures:</strong>",
+				"Although emotional disclosure can help in multiple ways (relief from stress, new perspectives, feedback etc.),  excessive disclosure in an indiscriminate fashion can make us vulnerable/burden others. Regarding sensitive matters, it is important to decide whom to disclose and in what fashion.<br>",
+				"<strong>Lack of exchange or sharing </strong>",
+				"Relationships are about a give and take. It would be good to periodically check if you are maintaining a good balance in terms of receiving and giving support. <br>",
+				"<strong> Diversity </strong>",
+				"It is helpful to view relationships as being at different levels. Some relationships may serve the purpose of providing healthy distraction/socializing in general while other relationships may provide us with sounding boards. All our needs may not be met in the same relationships.<br>",
+				"<strong> Demanding Mind reading</strong>",
+				"When we are close to people, we expect that they would understand us and our needs. But people are different in terms of their personality, their experiences, their views, their own issues/ways of looking at things. It would be unrealistic to expect that every time your friend/partner should be able to read your mind and act accordingly-without your needing to express.<br>",
+				"<strong>Being compassionate: </strong>",
+				"In the process of seeking and giving support, it is important to use a compassionate stance.",
+				" As human beings, we are bound to fail sometimes and being compassionate helps to preserve and strengthen our relationships. In fact, it is important to be compassionate towards ourselves and be our own good friend too. (link to section on self- compassion)<br>",
+				"<strong>Over-generalizing </strong>",
+				"Sometimes when we fail to receive support in one context, we may end up holding a general belief that nobody would support us or that we are not worthy enough. This erroneous overgeneralization can discourage us from trying and reaching out for support in other contexts and other relationships. <br>"
+	 		],
+	"images"	:	[
+						"images/essential-9_5.png"
+					],
+	"table"	:	{
+					"title" : 	"",
+					"rows"	:	"0",
+					"cols"	:	"0",
+					"thead"	:	[],
+					"tbody"	:	[]
+				}
+}

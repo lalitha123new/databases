@@ -1,0 +1,69 @@
+[
+	{
+		"sId" 	: 	"2",
+		"ssId"	:	"2",
+		"p"		:	[
+						"<strong>Let me be responsible and take care of my mental health needs!</strong>"
+					],
+		"table"	: 	{
+
+					"title" : 	"",
+					"rows"	:	"12",
+					"cols"	:	"2",
+					"thead"	:	[
+									"Questions to ask myself/points to ponder",
+									"My thoughts/notes to myself"
+								],
+					"tbody"	:	[
+									[
+										"Have I set the right time, place and day to schedule these sessions for myself, by myself?(I need to spend at least half an hour on 2-3 occasions per week.)",
+										"<textarea rows='2' style='resize: none;' class='td-1-2 form-control'></textarea>"
+									],
+									[
+										"If I am feeling helpless and pessimistic about this program, is this probably a symptom of depression itself?",
+										"<textarea rows='2' style='resize: none;' class='td-2-2 form-control'></textarea>"
+									],
+									[
+										"Can I use and consistently practice what is relevant to me?Can I give it a good try?",
+										"<textarea rows='2' style='resize: none;' class='td-3-2 form-control'></textarea>"
+									],
+									[
+										"Can I focus on small gains I can make?",
+										"<textarea rows='2' style='resize: none;' class='td-4-2 form-control'></textarea>"
+									],
+									[
+										"Will it help me if I expect ups and downs and not get easily disheartened by these?",
+										"<textarea rows='2' style='resize: none;' class='td-5-2 form-control'></textarea>"
+									],
+									[
+										"Do I value small steps I take and the efforts I make?",
+										"<textarea rows='2' style='resize: none;' class='td-6-2 form-control'></textarea>"
+									],
+									[
+										"Let me visualize recovering from depressed mood.",
+										"<textarea rows='2' style='resize: none;' class='td-7-2 form-control'></textarea>"
+									],
+									[
+										"Is it not worth investing time and efforts in taking care to feel and function well?",
+										"<textarea rows='2' style='resize: none;' class='td-8-2 form-control'></textarea>"
+									],
+									[
+										"What are those little things I did -based on the program -for which I need to pat myself on my back?",
+										"<textarea rows='2' style='resize: none;' class='td-9-2 form-control'></textarea>"
+									],
+									[
+										"Can I take someone's help in order to complete this program?",
+										"<textarea rows='2' style='resize: none;' class='td-10-2 form-control'></textarea>"
+									],
+									[
+										"What can inspire me? Can I keep such cues close to me?",
+										"<textarea rows='2' style='resize: none;' class='td-11-2 form-control'></textarea>"
+									],
+									[
+										"What motivational statements I can use to help me?",
+										"<textarea rows='2' style='resize: none;' class='td-12-2 form-control'></textarea>"
+									]
+								]
+					}
+	}
+]

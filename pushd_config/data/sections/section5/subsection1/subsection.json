@@ -1,0 +1,18 @@
+{	
+	"minfields"	:	0,
+	"p" :	[
+				"<strong>Worrying is normal and useful !</strong>",
+				"It helps us to think about potential problems in future and how to handle them. This helps us in feeling prepared and also in taking steps to handle a problem/situation.",
+				"But sometimes worries become excessive and more and more difficult to stop/control.",
+				"Excessive worry does not help in problem solving because we keep going over and over the same line of thoughts and experience more and more stress.",
+				"Some of these excessive worries are about small matters which need not bother us much but we keep worrying on and on.  Excessive worries can be part of depression or anxiety."
+			],
+	"images"	:	[],
+	"table"	:	{
+					"title" : 	"",
+					"rows"	:	"0",
+					"cols"	:	"0",
+					"thead"	:	[],
+					"tbody"	:	[]
+				}
+}

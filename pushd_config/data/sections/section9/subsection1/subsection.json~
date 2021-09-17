@@ -1,0 +1,19 @@
+{	
+	"minfields"	: 0,
+	"p" :	[
+				"<strong>Breaking internal barriers to mobilizing support:</strong>",
+				"Support is one of the important factors that influence our well-being.",
+				"Though support influences us at all times, it is during times of sadness and depression when emotional support from others can be very helpful. ",
+				"But we may experience many mental blocks/ internal barriers to reaching out and receiving support either because we are usually reluctant to ask for or receive support  or because depression itself is resulting in withdrawal from others and negative thoughts.",
+				"<img class='img-responsive' width='300px;' src='images/ss-9-1.png'>"
+			],
+	"images"	:	[
+				],
+	"table"	:	{
+					"title" : 	"",
+					"rows"	:	"0",
+					"cols"	:	"0",
+					"thead"	:	[],
+					"tbody"	:	[]
+				}
+}

@@ -1,0 +1,47 @@
+{	
+	"minfields"	:	0,
+	"p" :	[
+				"We are introducing self-compassion because it has been related to well-being and high self-criticality is often linked to depression and other common mental health problems.",
+				"You may find this notion of self-compassion to be vague/funny/rather strange. So we will try to clear your doubts.",
+				"What are the questions that come to your mind when you think about self-compassion?",
+				"Click on the questions/doubts to find our response<br>",
+				"<strong><u>What is self-compassion?</u></strong><br>",
+		"Compassion means being aware of/acknowledging suffering, experiencing feelings of kindness/care, and understanding that imperfections and fragility are universal aspects of being human that all of us share in common. Self-compassion is nothing but compassion toward one's own self.",
+				"<strong><u>I think what I need is to do things to maintain high self-esteem.</u></strong>",
+				"Self-esteem is about a positive evaluation of oneself.<br>
+Very often, people understand and base their self- esteem on certain conditions such as being better than others in some respect, achieving things in life etc.<br>
+				Such things become the conditions for valuing ourselves positively and then our self-esteem keeps fluctuating based on whether we are able to meet these standards. This approach is not a healthy way of functioning.<br>
+				Conditional self-esteem (when we set conditions to feel Ok/good about ourselves) can enhance risk of depression in the face of failures/losses and result in undue anxiety and stress while trying to meet certain standards 'before we value ourselves'. It can also result in various undesirable methods people might use to preserve their self-esteem (e.g. putting others down, avoiding to think about what is going wrong). <br>
+				Self-compassion is also about positive regard for oneself but it is not a conditional state.",
+				"<strong><u>Self-compassion seems like self-pity. I would not want that. </u></strong>",
+				"True self-compassion is very different from self-pity.<br>
+				In self-pity, one focuses on oneself and may brood/ruminate over and again about the negative aspects of a situation.<br>
+				Self-compassion on the other hand is about just being aware (mindful) of the situation/feelings, rather than constantly dwelling/drowning in these.<br>
+				Moreover self-compassion draws upon the belief that suffering is a universal aspect of living life for everyone so one is not special as compared to others.<br>
+				This is unlike self-pity which tends to evoke a sense of 'me' suffering in isolation from others.",
+				"<strong><u> What is self-criticism? </u></strong>",
+				"Self-criticism refers to internal thoughts/views about oneself, one's behaviors in a negative fashion, like fault-finding. It can be in the form of negative, comparisons of one's own self with others or internal - in terms of  feeling that one has not lived up to one's own  internal  goals/standards.",
+				"<strong><u> I think being self-critical is good. It can motivate us.</u> </strong>",
+				"Of course, it is important that we recognize our mistakes/errors/failures and learn from them or correct our patterns of thinking/action.<br>
+				However, this is not same as being self-critical.<br>
+				High levels of self-criticality (comparing unfairly with others or with our own harsh and unrealistic internal standards) has been linked to various kinds of mental health problems. This is because high and relentless self-criticality results in excessive brooding and worsening of moods which in turn affect our functioning. <br>
+				Although some level of anxiety and tension can motivate us to do better, over-generalized/global judgments of ourselves as persons (e.g. when I forgot to address someone appropriately during a meeting, telling myself that I am such a 'stupid person' who can 'never succeed'..) can worsen our mood to an extent that we can end up doing self-destructive things to feel better (e.g. using alcohol to cope with the resultant low mood) or avoid preparing for another upcoming meeting due to heightened sense of pressure.<br>
+				On the other hand, being self-compassionate can help us to acknowledge (rather than deny/avoid) what went wrong without unfavorably judging ourselves as 'bad /wrong persons' and thus free us to work towards improving what we want to improve.",
+				"<strong><u> How is self-criticism related to being criticized by others? </u></strong>",
+				"There are times when another person's comments become upsetting because they reflect what you have already been telling yourself - in the form of an internal dialogue. <br>
+				Thus, others' comments/behaviors may trigger negative, self-critical or self-blaming thoughts leading to sadness.",
+				"<strong><u><a>Is there some research evidence about the utility of self-compassion for mental health</a></strong></u>","",
+				"<strong><u>What can I do to become less self-critical and more self-compassionate?</u></strong>",
+				"Some people find it useful to look back at their past experiences to figure out why and how they learnt to become so self-critical of themselves. This may help in understanding to some extent why we carry such a harsh and critical voice within us.<br>
+				But such insights are not automatically sufficient to change this pattern. What is helpful is practicing the new approach repeatedly and consciously till it becomes a new habit.",
+				"<img width='400px;' src='images/ss-6-2.png'>"
+			],
+	"images"	:	[],
+	"table"	:	{
+					"title" : 	"",
+					"rows"	:	"0",
+					"cols"	:	"0",
+					"thead"	:	[],
+					"tbody"	:	[]
+				}
+}

@@ -1,0 +1,26 @@
+{
+	"quotes" : 	[
+					{
+						"quote" 	:	"If you want to test your memory, try to recall what you were worrying about one year ago today",
+						"author"	:	"E. Joseph Cossman"
+					},
+					{
+						"quote" 	:	"If you spend your whole life waiting for the storm, you’ll never enjoy thesunshine",
+						"author"	:	"Morris West"
+					}
+				],
+	"sectionDesc" 	: 	[
+							"Knowledge Point",
+							"Tool Box: Strategies to manage excessive worry",
+							"Demo-Point: Video",
+							"Practice Point-1 Exercises to identify different mind-states",
+							"Tool Box: So what did you discover?",
+							"Practice Point-2- Applying what you learnt",
+							"Commitment Point",
+							"Practice Point-3- Your diary for practice"
+						],
+	"estimatedTime" : 	"60 minutes",
+	"noOfSittings" : "3",
+	"noOfExercises"	: "4",
+	"suggestions" 	: 	""
+}

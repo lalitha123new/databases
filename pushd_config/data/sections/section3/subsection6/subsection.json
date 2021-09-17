@@ -1,0 +1,59 @@
+{
+	"exerciseNo"	:	"12",
+	"exerciseType"	:	"M",
+	"exerciseGT"	:	"true",
+	"minfields"	:	1,
+	"p" : 	[
+				"Based on the tips provided, please write down your self-reward plan here for doing the activities that you have decided to do.  Please place  one or more  tick   marks  for  the type of self-reward   you  will use and mention  when  you will give  yourself this reward ."
+			],
+	"images":	[],
+	"table" : 	{
+					"title" : 	"",
+					"rows"	:	"6",
+					"cols"	:	"3",
+					"thead"	:	[
+									"My  Choice",
+									"I will reward myself by",
+									"<strong>When will I reward myself ? <strong><br>I will give myself this reward WHEN/IF (please write the condition you set for rewarding yourself ( for example:  Giving myself a treat/something nice to eat IF I wake up  at least three days in this  week at 7.30 am)",
+									
+								],
+					"tbody"	:	[
+									[ 	"<input type = 'checkbox' class='td-3-6-1-1' name='list1' id='check1'   value='1' onclick = 'checkbox_label(this)' >",
+										"Marking my efforts on a simple graph/chart and putting it up prominently on a table/on a wall/cupboard",
+										"<textarea rows='2'  style='resize: none;' class='td-3-6-1-3 form-control'>",
+										
+										
+									],
+									[ 
+										"<input type = 'checkbox' class='td-3-6-2-1' name='list2' id='check2'  value='2' onclick = 'checkbox_label(this)'>",
+										"Writing a  happy note to myself in a diary",
+										"<textarea rows='2' style='resize: none;' class='td-3-6-2-3 form-control'>"
+										
+									],
+									[
+										"<input type = 'checkbox' class='td-3-6-3-1' name='list3' id='check3' value='3' onclick = 'checkbox_label(this)'>",
+										"Giving myself a treat/something nice to eat",
+										"<textarea rows='2' style='resize: none;' class='td-3-6-3-3 form-control'>"
+										
+									],
+									[
+										"<input type = 'checkbox' class='td-3-6-4-1' name='list4' id='check4' value='4' onclick = 'checkbox_label(this)'>",
+										"Spending some time doing something I like/want.<br><textarea class='td-3-6-4-2 text4 form-control' style='resize: none;' placeholder='Please Specify Here ...' rows='2'>",
+										"<textarea rows='3' style='resize: none;' class='td-3-6-4-3 form-control'>"
+										
+									],
+									[
+										"<input type = 'checkbox' class='td-3-6-5-1' name='list5' id='check5' value='5' onclick = 'checkbox_label(this)'>",
+										"Buying something for myself <br><textarea placeholder='Please Specify Here ...' style='resize: none;' class='td-3-6-5-2  text5 form-control' rows='2'>",
+										"<textarea rows='3' style='resize: none;' class='td-3-6-5-3  form-control'>"
+										
+									],
+									[
+										"<input type = 'checkbox' class='td-3-6-6-1' name='list6' id='check6' value='6' onclick = 'checkbox_label(this)'>",
+										"Any other way of rewarding myself.<br><textarea placeholder='Please Specify Here ...' style='resize: none;' class='td-3-6-6-2 text6 form-control' rows='2'>",
+										"<textarea rows='3' style='resize: none;' class='td-3-6-6-3  form-control'>"
+										
+									]
+								]
+				}
+}

@@ -1,0 +1,26 @@
+{
+	"quotes" : 	[
+					{
+						"quote" 	:	"The most powerful relationship you will ever have is the relationship with yourself",
+						"author"	:	"Steve Maraboli"
+					},
+					{
+						"quote" 	:	"You yourself, as much as anybody in the entire universe, deserve your love and affection",
+						"author"	:	"Buddha"
+					}
+				],
+	"sectionDesc" 	: 	[
+							"Discovery Point",
+							"Knowledge Point : Busting myths about self-compassion",
+							"Tool Box and Practice Points",
+							"Practice Point-1",
+							"Knowledge Point",
+							"Practice Point-2",
+							"Knowledge Point : Mindfulness",
+							"Practice Point-3 : Mindfulness practice with video",
+						],
+	"estimatedTime" : 	"60 minutes",
+	"noOfSittings" : "3",
+	"noOfExercises"	: "3",
+	"suggestions" 	: 	""
+}

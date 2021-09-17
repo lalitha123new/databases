@@ -1,0 +1,6 @@
+<project default="mkdirs">
+  <target name="mkdirs">
+    <xslt style="mkdir.xslt" in="dirs.xml" out="mkdir.build.xml"/>
+    <ant antfile="mkdir.build.xml"/>
+  </target>
+</project>

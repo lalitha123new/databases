@@ -1,0 +1,168 @@
+{
+	
+	"subSectionDesc":	[
+							" "
+							],
+	"exerciseTitle" : "",
+
+	"exerciseDesc" 	: 	[
+							
+							"<strong>Let us focus on four of them here.These can be seen as indicators of psychological well-being:</strong>",
+
+					"<strong>Sense of mastery and competence: </strong>This is about experiencing an overall sense of being able to manage the demands in our environment and an overall general sense of competence in the roles we play in day to day life. ",
+
+					"<strong>Self-Acceptance:</strong> This is about accepting oneself as a whole, with one's strengths and weaknesses.",
+
+					"<strong>Positive Relations:</strong> <br>This indicator of psychological wellbeing is to do with a general overall sense of belonging, having some warm and accepting relationships.",
+					
+"<strong>Sense of Engagement and Growth: </strong> This covers two related aspects, a sense of being engaged in activities that are meaningful and fulfilling as well as a sense of continuing to grow as a person.",
+
+					"You can take a brief questionnaire here to get a feel of how you are doing currently on these dimensions of psychological well-being.",
+
+					"Your scores are not going to be compared to others to tell you if you are doing better or worse than others. This questionnaire is merely to help you discover and decide for yourself which dimensions or aspects you might want to focus upon, in order to experience an overall increase in your well-being. These dimensions also provide you the idea that you could enhance your well-being in multiple ways.",
+                            "<strong>The following set of statements deals with how you feel about yourself and your life. Please click  on the option that is applicable to you. Please remember that there are no right or wrong answers.</strong>"
+	                    ],
+	"feedback" : 	
+					"<strong>Scoring algorithm: <br>    Step 1</strong> : Scoring of individual items:  from 6 to 1 (6 for strongly agree to 1 for strongly disagree) for all the items except the following 9 items:  Item no.1/4/8/10/11/12/14/19/20: For these items the scoring is reversed:  from 1 to 6 (1 for strongly agree to 6 for strongly disagree)<br><br>       <strong>Step 2 </strong>: Arriving at subtotals for four different subscales<br>  (I)Self-acceptance:   item no 2/3/17/18 <br>  (II)Sense of mastery and competence:  Item number 8/11/12/14/19/20<br>    (III)Positive Relations: Item number 1/4/7/10/15<br>     (IV)Sense of engagement and growth: 5/6/9/13/16<br><br> <strong>Step 3 </strong>. Apart from 4 total scores, we also want average for each subscale as follows:<br>  Average SA=   total Sa/4<br> Average MC = total MC /6<br> Average PR = total PR/5<br> Average EG= Total EG/5<br>  <strong>Step 4 </strong> Feedback <br> Your scores <br> Self-Acceptance: <br> Sense of mastery and competence: <br> Sense Positive Relations <br> Sense of engagement and growth: <br> If your score on any subscale: 2 or less:   This is perhaps an area you definitely want to work upon <br> If score on any subscale: 5 or more: This is perhaps an area wherein you are doing pretty well. Keep it up.<br> If you score 3 or 4 on any subscale: You may be doing fair enough, though there is scope to enhance this aspect of your well-being. <br>    Highest mean score on : __________________(The aspect /dimension of well-being wherein you are doing better than other dimensions <br>  Lowest mean score on : ____________________(The aspect /dimension of well-being wherein you are not doing as well as other dimensions)<br>"
+						
+					,
+	"options"	:	[	
+						"Strongly agree",
+						"Agree Somewhat",
+						"Agree Slightly",
+						"Disagree Slightly",
+						"Disagree Somewhat",
+						"Strongly Disagree "
+					],
+	"questions" : 	[
+						{
+                            "questionNo"     	: "",
+                     	    "questionContent"   : "",
+                            "questions"     	: 
+                        			[
+                        				{
+											"questionNo"		:	"1",
+											"questionContent"	:	"<strong>I often feel lonely because I hardly have close friends with whom I can share my worries.</strong>",
+											"answer"			:	"false",
+											"explanation"		:	[ "PR" ]
+										},
+										{
+											"questionNo"		:	"2",
+											"questionContent"	:	"<strong>I feel good when I think of what I have done in the past and what I hope to do in the future.</strong>",
+											"answer"			:	"true",
+											"explanation"		:	[ "SA" ]
+										},
+										{
+											"questionNo"		:	"3",
+											"questionContent"	:	"<strong>When I look at my life on the whole, I feel happy about how things have turned out.</strong> ",
+											"answer"			:	"true",
+											"explanation"		:	[ "SA" ]
+										},
+										{
+											"questionNo"		:	"4",
+											"questionContent"	:	"<strong>I do not have many people who want to listen when I need to talk.</strong>",
+											"answer"			:	"false",
+											"explanation"		:	[ "PR" ]
+										},
+										{
+											"questionNo"		:	"5",
+											"questionContent"	:	"<strong>I have a sense of direction and purpose in life.</strong>",
+											"answer"			:	"true",
+											"explanation"		:	[ "EG" ]
+										},
+										{
+											"questionNo"		:	"6",
+											"questionContent"	:	"<strong>In general, I feel confident and positive about myself.</strong> ",
+											"answer"			:	"true",
+											"explanation"		:	[ "EG" ]
+										},
+										{
+											"questionNo"		:	"7",
+											"questionContent"	:	"<strong>I feel that I get a lot out of my friendships.</strong> ",
+											"answer"			:	"true",
+											"explanation"		:	[ "PR" ]
+										},
+										{
+											"questionNo"		:	"8",
+											"questionContent"	:	"<strong>When I think about it, I have not really improved much as a person over the years.</strong>",
+											"answer"			:	"false",
+											"explanation"		:	[ "MC" ]
+										},
+										{
+											"questionNo"		:	"9",
+											"questionContent"	:	"<strong>I enjoy making plans for the future and working to make them a reality.</strong> ",
+											"answer"			:	"true",
+											"explanation"		:	[ "EG" ]
+										},
+										{
+											"questionNo"		:	"10",
+											"questionContent"	:	"<strong>I have not experienced many warm and trusting relationships with others.</strong> " ,
+											"answer"			:	"false",
+											"explanation"		:	[ "PR" ]
+										},
+										{
+											"questionNo"		:	"11",
+											"questionContent"	:	"<strong>It is difficult for me to give my own opinions on controversial matters.</strong>",
+											"answer"			:	"false",
+											"explanation"		:	[ "MC" ]
+										},
+										{
+											"questionNo"		:	"12",
+											"questionContent"	:	"<strong>I have difficulty organizing my life in a way that is satisfying to me.</strong> ",
+											"answer"			:	"false",
+											"explanation"		:	[ "MC" ]
+										},
+{
+											"questionNo"		:	"13",
+											"questionContent"	:	"<strong>I am an active person in carrying out the plans I set for myself.</strong>",
+											"answer"			:	"true",
+											"explanation"		:	[ "EG" ]
+										},
+										{
+											"questionNo"		:	"14",
+											"questionContent"	:	"<strong>In many ways, I feel disappointed about my achievements in life.</strong> ",
+											"answer"			:	"false",
+											"explanation"		:	[ "MC" ]
+										},
+										{
+											"questionNo"		:	"15",
+											"questionContent"	:	"<strong>I know that I can trust my friends, and they know they can trust me.</strong> ",
+											"answer"			:	"true",
+											"explanation"		:	[ "PR" ]
+										},
+										{
+											"questionNo"		:	"16",
+											"questionContent"	:	" <strong>For me, life has been a continuous process of learning, changing, and growth.</strong> ",
+											"answer"			:	"true",
+											"explanation"		:	[ "EG" ]
+										},
+										{
+											"questionNo"		:	"17",
+											"questionContent"	:	"<strong>My aims in life have been more a source of satisfaction than frustration to me.</strong> ",
+											"answer"			:	"true",
+											"explanation"		:	[ "SA" ]
+										},
+										{
+											"questionNo"		:	"18",
+											"questionContent"	:	" <strong>By and large, I am proud of who I am and the kind of life I lead.</strong> ",
+											"answer"			:	"true",
+											"explanation"		:	[ "SA" ]
+										},
+										{
+											"questionNo"		:	"19",
+											"questionContent"	:	" <strong>I am concerned about what other people think of the choices I have made in my life.</strong> ",
+											"answer"			:	"false",
+											"explanation"		:	[ "MC" ]
+										},
+										{
+											"questionNo"		:	"20",
+											"questionContent"	:	" <strong>I gave up trying to make big improvements or changes in my life a long time ago.</strong>  ",
+											"answer"			:	"false",
+											"explanation"		:	[ "MC" ]
+										}
+									]
+						}
+						
+					]
+	
+	}

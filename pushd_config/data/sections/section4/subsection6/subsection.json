@@ -1,0 +1,63 @@
+{
+	"exerciseNo"	:	"15",
+	"exerciseType"	:	"NM",
+	"exerciseGT"	:	"true",
+	"minfields"     :    1,
+	"p" : 	[
+				"<strong>Applying what you learnt in your day-to-day life</strong>",
+				"<img src='images/ss-4-6.png'></img><br><br>","Research indicates that a powerful method to manage depression is learning to catch the 'Negative Automatic Thoughts'(NATs) as they pop up, examine them and correct the underlying cognitive errors/distortions, if any.<br><br>Here is an example of how you can record your thoughts and feelings in different situations that generate negative emotions and learn to recognize the patterns.<br><br>After recording the thoughts you can make an attempt to write down or note the points that either support or do not seem to support these thoughts. <br><br>By doing this you will be able to see how certain way of thinking can lead to certain negative emotional states, and how by using an alternate perspective/view, you can change  the thoughts to more realistic ones  and feel  less disturbed. Thus this activity will help you understand the links between thoughts emotions and behaviors as they occur as well as to learn how to modify them.<br><br> Check. Set aside some time every evening to use this table for the next one week. Later on, you can generate a new table for a new week.<br><br>"],
+	"images":	[],
+    "feedback" :    [
+   						"Watch the pattern over a week.  Write down at least one  and maximum three questions ( given in the tool box) that you can ask yourself  which would help you to substitute your distressing thoughts with alternatives thoughts:"
+                    ],
+	"table" : 	{
+					"title" : 	"",
+					"rows"	:	"4",
+					"cols"	:	"5",
+					"thead"	:	[
+									"<th class='col-md-3 text-center' style='border:1px solid #FFB74D;background-color: #FFE0B2;'></br>Situation</br></th>",
+									"<th class='col-md-2 text-center' style='border:1px solid #FFB74D;background-color: #FFE0B2;'></br>Name the feelings you experienced and rate how strong these feelings were (Rate between-0 -100%)</br></th>",
+                                    "<th class='col-md-2 text-center' style='border:1px solid #FFB74D;background-color: #FFE0B2;'></br>Write the thoughts just before you felt this way and how much did you believe in them (0-100%)</br></th>",
+                                    "<th class='col-md-2 text-center' style='border:1px solid #FFB74D;background-color: #FFE0B2;'></br>Identify the most dominant cognitive error you may be using</br></th>",
+                                    "<th class='col-md-3 text-center' style='border:1px solid #FFB74D;background-color: #FFE0B2;'></br>Attempt to write down another way of looking at this situation (alternative thoughts) and the possible effect of such alternative thinking </br></th>"
+								],
+					"tbody"	:	[
+									
+									[
+										"<input id='' class='td-4-6-1-1 col-md-3  form-control' value=''>",
+										"<input id='' class='td-4-6-1-2 col-md-2 form-control' value=''>",
+                                        "<input id='' class='td-4-6-1-3 col-md-2 form-control' value=''>",
+										"<select id='' class='td-4-6-1-4 col-md-2 form-control'><option value='Select'>Select</option><option value='All or None Thinking'>All or None Thinking</option><option value='Over-generalization'>Over-generalization</option><option value='Selective Abstraction'>Selective Abstraction</option><option value='Disqualifying the positive'>Disqualifying the positive</option><option value='Jumping to conclusion'>Jumping to conclusion</option><option value='Magnification or Minimization'>Magnification or Minimization</option><option value='Emotional reasoning'>Emotional reasoning</option><option value='Should Statements'>Should Statements</option><option value='Labeling'>Labeling</option><option value='Personalization'>Personalization</option></select>",
+										"<input id='' class='td-4-6-1-5 col-md-3 form-control' value=''>"
+									],
+									[
+										"<input id='' class='td-4-6-2-1 col-md-3  form-control' value=''>",
+										"<input id='' class='td-4-6-2-2 col-md-2 form-control' value=''>",
+                                        "<input id='' class='td-4-6-2-3 col-md-2 form-control' value=''>",
+										"<select id='' class='td-4-6-2-4 col-md-2 form-control'><option value='Select'>Select</option><option value='All or None Thinking'>All or None Thinking</option><option value='Over-generalization'>Over-generalization</option><option value='Selective Abstraction'>Selective Abstraction</option><option value='Disqualifying the positive'>Disqualifying the positive</option><option value='Jumping to conclusion'>Jumping to conclusion</option><option value='Magnification or Minimization'>Magnification or Minimization</option><option value='Emotional reasoning'>Emotional reasoning</option><option value='Should Statements'>Should Statements</option><option value='Labeling'>Labeling</option><option value='Personalization'>Personalization</option></select>",
+										"<input id='' class='td-4-6-2-5 col-md-3 form-control' value=''>"
+									],
+									[
+										"<input id='' class='td-4-6-3-1 col-md-3 form-control' value=''>",
+										"<input id='' class='td-4-6-3-2 col-md-2 form-control' value=''>",
+                                        "<input id='' class='td-4-6-3-3 col-md-2 form-control' value=''>",
+										"<select id='' class='td-4-6-3-4 col-md-2 form-control'><option value='Select'>Select</option><option value='All or None Thinking'>All or None Thinking</option><option value='Over-generalization'>Over-generalization</option><option value='Selective Abstraction'>Selective Abstraction</option><option value='Disqualifying the positive'>Disqualifying the positive</option><option value='Jumping to conclusion'>Jumping to conclusion</option><option value='Magnification or Minimization'>Magnification or Minimization</option><option value='Emotional reasoning'>Emotional reasoning</option><option value='Should Statements'>Should Statements</option><option value='Labeling'>Labeling</option><option value='Personalization'>Personalization</option></select>",
+										"<input id='' class='td-4-6-3-5 col-md-3 form-control' value=''>"
+									],
+									[
+										"<input id='' class='td-4-6-4-1 col-md-3 form-control' value=''>",
+										"<input id='' class='td-4-6-4-2 col-md-2 form-control' value=''>",
+                                        "<input id='' class='td-4-6-4-3 col-md-2 form-control' value=''>",
+										"<select id='' class='td-4-6-4-4 col-md-2 form-control'><option value='Select'>Select</option><option value='All or None Thinking'>All or None Thinking</option><option value='Over-generalization'>Over-generalization</option><option value='Selective Abstraction'>Selective Abstraction</option><option value='Disqualifying the positive'>Disqualifying the positive</option><option value='Jumping to conclusion'>Jumping to conclusion</option><option value='Magnification or Minimization'>Magnification or Minimization</option><option value='Emotional reasoning'>Emotional reasoning</option><option value='Should Statements'>Should Statements</option><option value='Labeling'>Labeling</option><option value='Personalization'>Personalization</option></select>",
+										"<input id='' class='td-4-6-4-5 col-md-3 form-control' value=''>"
+									],
+									[
+										"<input id='' class='td-4-6-5-1 col-md-3 form-control' value=''>",
+										"<input id='' class='td-4-6-5-2 col-md-2 form-control' value=''>",
+                                        "<input id='' class='td-4-6-5-3 col-md-2 form-control' value=''>",
+										"<select id='' class='td-4-6-5-4 col-md-2 form-control'><option value='Select'>Select</option><option value='All or None Thinking'>All or None Thinking</option><option value='Over-generalization'>Over-generalization</option><option value='Selective Abstraction'>Selective Abstraction</option><option value='Disqualifying the positive'>Disqualifying the positive</option><option value='Jumping to conclusion'>Jumping to conclusion</option><option value='Magnification or Minimization'>Magnification or Minimization</option><option value='Emotional reasoning'>Emotional reasoning</option><option value='Should Statements'>Should Statements</option><option value='Labeling'>Labeling</option><option value='Personalization'>Personalization</option></select>",
+										"<input id='' class='td-4-6-5-5 col-md-3 form-control' value=''>"
+									]
+								]
+				}
+}

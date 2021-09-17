@@ -1,0 +1,25 @@
+{	
+	"minfields"	:	0,
+	"p" :	[
+				"Behavioral activation is a form of psychological treatment that has been found to be effective for management of depression.",
+				"Low mood can occur when our environment or the activities that we engage in do not provide us enough mental rewards to make us feel good or motivated and also when we are not able to reward ourselves.",
+				"Once low mood sets in, it is usually accompanied by low motivation, low energy levels as well as social withdrawal. This often results in reduction in activity levels which further reduces the mental rewards/pleasure we generally experience.",
+				"Depression can also result in negative/passive behaviors, such as smoking, drinking alcohol, just lying in bed,as these often require less effort and provide quick, though temporary relief. Unfortunately such behaviors further worsen low mood. For example, spending a lot of time lying in bed may seem like the easy and the best thing to do when we are feeling sad but this is a form of passive and avoidant behavior can prolong our brooding (repetitive negative thoughts), reduce chances of exploring alternative ways of handling a difficult situation, increase sense of guilt, decrease sense of self confidence or esteem and also disconnect us from others who may provide us positive distraction, emotional comfort or even offer a new way of looking at things."						,
+				"Therefore it is important for us to increase levels of activity when we are depressed. As a, as strategy, it is called Behavioral activation. Behavioral activation for reducing depression aims at slowly increasing engagement in activities which are pleasurable ( but not unhealthy) , those that give us a sense of meaning /achievement while reducing the time spent in passive or avoidance behaviors which are resulting in maintenance of our low mood.",
+				"Though this may seem like a very simple approach to managing your depression, there is research evidence to indicate that it can be a useful stand-along treatment or the first step to other approaches to handle depression (e.g. learning to manage your thoughts), especially if your depression is accompanied by overall decrease in your activity level or low frequency of engagement in pleasurable and meaningful activities.",
+				"Increased availability of sources of mental reward/pleasure, Increased sense of achievement/mastery, increased self-confidence, decrease in brooding/repeated cycles of negative decreased engagement in pleasurable/meaningful activities Increase time spent in passive/avoidant behaviors Through thoughts, decreasing in passive or harmful/avoidant behaviors and increase in the chances of actively working at solutions.",
+				"Here is what you need to remember about how depression and activity-levels (and nature of activities) can influence each other. "
+			],
+	"images"	:	[
+						"images/ss-3-1.png",
+						"images/ss-3-1_2.png"	
+					],
+	"video"	:	"<div class=\"video-container\"><iframe src='https://www.youtube-nocookie.com/embed/v6MTVJirgck' width='640' height='480' allowfullscreen></iframe></div><div class=\"hidebtn\">&nbsp;</div>",
+	"table"	:	{
+					"title" : 	"",
+					"rows"	:	"0",
+					"cols"	:	"0",
+					"thead"	:	[],
+					"tbody"	:	[]
+				}
+}

@@ -1,0 +1,24 @@
+{
+	"quotes" : 	[
+					{
+						"quote" 	:	"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending",
+						"author"	:	"Carl Bard"
+					},
+					{
+						"quote" 	:	"The journey of a thousand miles begins with one step",
+						"author"	:	"Lao Tzu"
+					}
+				],
+	"sectionDesc" 	: 	[
+							"Knowledge Point Behavioral Activation-What and Why",
+							"Practice Point-1: Developing an activation plan",
+							"Practice Point-1: Potential List and Weekly Planner",
+							"Check Point",
+							"Tool Box: Planning, implementing, rewarding",
+							"Practice Point-2: Self-reward planning and Weekly monitoring"
+						],
+	"estimatedTime" : 	"60 minutes",
+	"noOfSittings" : "3",
+	"noOfExercises"	: "10",
+	"suggestions" 	: 	""
+}

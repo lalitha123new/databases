@@ -1,0 +1,27 @@
+{
+	"quotes" : 	[
+					{
+						"quote" 	:	"The healthy and strong individual is the one who asks for help when he needs it. Whether he's got an abscess on his knee or in his soul",
+						"author"	:	"Rona Barrett"
+					},
+					{
+						"quote" 	:	"Asking for help does not mean that we are weak or incompetent. It usually indicates an advanced level of honesty and intelligence",
+						"author"	:	"Anne Wilson Schaef"
+					},
+					{
+						"quote" 	:	"You miss 100% of the shots you don't take",
+						"author"	:	"Wayne Gretzky"
+					}
+				],
+	"sectionDesc" 	: 	[
+							"Knowledge Point",
+							"Discovery Point",
+							"Tool Box",
+							"Commitment Points",
+							"Warning Shots"
+						],
+	"estimatedTime" : 	"40 minutes",
+	"noOfSittings" : "2",
+	"noOfExercises"	: "3",
+	"suggestions" 	: 	""
+}

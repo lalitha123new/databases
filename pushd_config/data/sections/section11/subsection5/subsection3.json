@@ -1,0 +1,24 @@
+{
+	"p" :	[
+				"<strong>Preparing a checklist of goals for sleep hygiene practice </strong>",
+				"Building sleep health and hygiene is best seen as a process which needs practice and repetition to form habits and routine. ",
+				"The first step is to prepare a sleep hygiene plan that suits you and is relevant for you as an individual and which is simple, feasible, and moderately challenging for you to carry out currently. The following questions can help you develop a small set of goals as check-list as a first step towards sleep-hygiene practice.",
+				"1. What waking time and bedtime can I set for myself currently? (<strong>Clue:</strong> Do not set unrealistically difficult goals, make small changes, practice the changed patterns and then slowly make more changes.  For example if someone's current timings are 8 am and 12 pm , it would be unrealistic to set the goals for waking up and going to bed at  6 am and 9 pm respectively!)" ,
+				"2. What is a simple routine for 'getting ready to sleep' that I can develop for myself? ",
+				"3. Can I develop a list of happy memories /any other scene which I can then use for relaxation through visual imagery? If not, is there any other relaxation technique (deep breathing, breathing awareness, meditation, etc.) that I may want to practice regularly so that I can use it also for falling asleep?",
+				"4. If there is medication that I got to take in the evenings, what is the best time to take the medicine so that I can get enough rest before waking up? For instance, can I advance my food time and take pills earlier in the evening in order to decrease drowsiness in the morning caused by the pills?",
+				"5. Is there any modification to my food habits, or use of any substance that is interfering with my sleep? What first step can I take towards altering the habit/s?",
+				"6. What kind of activity (dull/boring/monotonous) I can arrange for myself, to be used if I find myself not getting sleep while lying in bed for more than 20-25 minutes approximately?",
+                ""
+				],
+	"images"	:	[
+						""
+					],
+	"table"	:	{
+					"title" : 	"<strong>Based on these questions or other relevant concerns discussed in this section, you may now come up with five simple goals that to practice for fostering your sleep hygiene. Write the goals in terms of actions that you can carry out every day. Write down your goals below. Plan out small ways in which you can reward yourself for successfully carrying out each of the goals in this checklist.</strong>",
+					"rows"	:	"5",
+					"cols"	:	"1",
+					"thead"	:	[],
+					"tbody"	:	[]
+				}
+}

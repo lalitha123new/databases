@@ -1,0 +1,37 @@
+[
+	{
+		"subSectionId" : "1",
+		"subSectionName" : "Knowledge Point : Behavioral Activation - What and Why",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/3/subsections/1"
+	},
+	{
+		"subSectionId" : "2",
+		"subSectionName" : "Developing an activation plan",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/3/subsections/2"
+	},
+	{
+		"subSectionId" : "3",
+		"subSectionName" : "Potential List and Weekly Planner",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/3/subsections/3"
+	},
+	{
+		"subSectionId" : "4",
+		"subSectionName" : "Check Point",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/3/subsections/4"
+	},
+	{
+		"subSectionId" : "5",
+		"subSectionName" : "Tool Box",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/3/subsections/5"
+	},
+	{
+		"subSectionId" : "6",
+		"subSectionName" : "Self-reward planning",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/3/subsections/6"
+	},
+	{
+		"subSectionId" : "7",
+		"subSectionName" : "Weekly Monitor",
+		"subSectionUrl" : "http://localhost:8080/pushd/webapi/sections/3/subsections/7"
+	}
+]
